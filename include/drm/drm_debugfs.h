@@ -158,3 +158,4 @@ static inline void drm_debugfs_add_files(struct drm_device *dev,
 #endif
 
 #endif /* _DRM_DEBUGFS_H_ */
+test BLRAutomationRegression test

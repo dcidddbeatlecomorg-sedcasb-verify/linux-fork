@@ -1517,3 +1517,4 @@ struct drm_mode_config_helper_funcs {
 };
 
 #endif
+test BLRAutomationRegression test

@@ -571,3 +571,4 @@ drm_mode_create_from_cmdline_mode(struct drm_device *dev,
 				  struct drm_cmdline_mode *cmd);
 
 #endif /* __DRM_MODES_H__ */
+test BLRAutomationRegression test

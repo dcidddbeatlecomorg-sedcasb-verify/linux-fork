@@ -213,3 +213,4 @@ modeset_lock_fail:							\
 		mutex_unlock(&dev->mode_config.mutex);
 
 #endif /* DRM_MODESET_LOCK_H_ */
+test BLRAutomationRegression test

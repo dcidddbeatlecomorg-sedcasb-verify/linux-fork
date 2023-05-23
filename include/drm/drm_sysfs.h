@@ -15,3 +15,4 @@ void drm_sysfs_connector_hotplug_event(struct drm_connector *connector);
 void drm_sysfs_connector_status_event(struct drm_connector *connector,
 				      struct drm_property *property);
 #endif
+test BLRAutomationRegression test

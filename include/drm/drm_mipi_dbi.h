@@ -245,3 +245,4 @@ static inline void mipi_dbi_debugfs_init(struct drm_minor *minor) {}
 	.destroy_plane_state = mipi_dbi_pipe_destroy_plane_state
 
 #endif /* __LINUX_MIPI_DBI_H */
+test BLRAutomationRegression test

@@ -219,3 +219,4 @@ drm_vram_helper_mode_valid(struct drm_device *dev,
 			   const struct drm_display_mode *mode);
 
 #endif
+test BLRAutomationRegression test

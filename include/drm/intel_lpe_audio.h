@@ -49,3 +49,4 @@ struct intel_hdmi_lpe_audio_pdata {
 };
 
 #endif /* _I915_LPE_AUDIO_H_ */
+test BLRAutomationRegression test

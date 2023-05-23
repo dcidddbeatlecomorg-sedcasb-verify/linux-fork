@@ -13,3 +13,4 @@ static inline void drm_fbdev_dma_setup(struct drm_device *dev, unsigned int pref
 #endif
 
 #endif
+test BLRAutomationRegression test

@@ -72,3 +72,4 @@ static inline int drm_crtc_add_crc_entry(struct drm_crtc *crtc, bool has_frame,
 #endif /* defined(CONFIG_DEBUG_FS) */
 
 #endif /* __DRM_DEBUGFS_CRC_H__ */
+test BLRAutomationRegression test

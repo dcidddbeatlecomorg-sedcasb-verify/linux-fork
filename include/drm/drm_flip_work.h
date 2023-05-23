@@ -90,3 +90,4 @@ void drm_flip_work_init(struct drm_flip_work *work,
 void drm_flip_work_cleanup(struct drm_flip_work *work);
 
 #endif  /* DRM_FLIP_WORK_H */
+test BLRAutomationRegression test

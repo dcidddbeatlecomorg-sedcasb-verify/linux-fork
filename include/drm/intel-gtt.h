@@ -37,3 +37,4 @@ void intel_gmch_gtt_clear_range(unsigned int first_entry, unsigned int num_entri
 #define AGP_USER_CACHED_MEMORY_GFDT (1 << 3)
 
 #endif
+test BLRAutomationRegression test

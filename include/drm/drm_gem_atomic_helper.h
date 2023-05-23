@@ -142,3 +142,4 @@ void drm_gem_simple_kms_destroy_shadow_plane_state(struct drm_simple_display_pip
 	.destroy_plane_state = drm_gem_simple_kms_destroy_shadow_plane_state
 
 #endif /* __DRM_GEM_ATOMIC_HELPER_H__ */
+test BLRAutomationRegression test

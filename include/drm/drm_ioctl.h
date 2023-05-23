@@ -183,3 +183,4 @@ int drm_invalid_op(struct drm_device *dev, void *data,
 		   struct drm_file *file_priv);
 
 #endif /* _DRM_IOCTL_H_ */
+test BLRAutomationRegression test

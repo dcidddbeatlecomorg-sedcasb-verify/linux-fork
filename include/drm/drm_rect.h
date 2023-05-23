@@ -257,3 +257,4 @@ void drm_rect_rotate_inv(struct drm_rect *r,
 			 unsigned int rotation);
 
 #endif
+test BLRAutomationRegression test

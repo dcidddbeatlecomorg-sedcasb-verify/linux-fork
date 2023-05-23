@@ -551,3 +551,4 @@ struct drm_mm_node *drm_mm_scan_color_evict(struct drm_mm_scan *scan);
 void drm_mm_print(const struct drm_mm *mm, struct drm_printer *p);
 
 #endif
+test BLRAutomationRegression test

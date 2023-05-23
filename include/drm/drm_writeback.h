@@ -178,3 +178,4 @@ drm_writeback_signal_completion(struct drm_writeback_connector *wb_connector,
 struct dma_fence *
 drm_writeback_get_out_fence(struct drm_writeback_connector *wb_connector);
 #endif
+test BLRAutomationRegression test

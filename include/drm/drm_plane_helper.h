@@ -57,3 +57,4 @@ int drm_plane_helper_atomic_check(struct drm_plane *plane, struct drm_atomic_sta
 	.destroy = drm_plane_helper_destroy
 
 #endif
+test BLRAutomationRegression test

@@ -59,3 +59,4 @@ int drm_atomic_normalize_zpos(struct drm_device *dev,
 int drm_plane_create_blend_mode_property(struct drm_plane *plane,
 					 unsigned int supported_modes);
 #endif
+test BLRAutomationRegression test

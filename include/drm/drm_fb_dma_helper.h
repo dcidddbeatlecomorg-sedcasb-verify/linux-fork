@@ -21,3 +21,4 @@ void drm_fb_dma_sync_non_coherent(struct drm_device *drm,
 
 #endif
 
+test BLRAutomationRegression test

@@ -329,3 +329,4 @@ void drm_legacy_ioremap_wc(struct drm_local_map *map, struct drm_device *dev);
 void drm_legacy_ioremapfree(struct drm_local_map *map, struct drm_device *dev);
 
 #endif /* __DRM_DRM_LEGACY_H__ */
+test BLRAutomationRegression test

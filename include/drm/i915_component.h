@@ -53,3 +53,4 @@ struct i915_audio_component {
 };
 
 #endif /* _I915_COMPONENT_H_ */
+test BLRAutomationRegression test

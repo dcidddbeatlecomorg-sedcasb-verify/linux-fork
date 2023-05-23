@@ -19,3 +19,4 @@ void drm_self_refresh_helper_update_avg_times(struct drm_atomic_state *state,
 int drm_self_refresh_helper_init(struct drm_crtc *crtc);
 void drm_self_refresh_helper_cleanup(struct drm_crtc *crtc);
 #endif
+test BLRAutomationRegression test

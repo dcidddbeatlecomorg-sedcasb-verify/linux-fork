@@ -13,3 +13,4 @@ static inline void drm_fbdev_generic_setup(struct drm_device *dev, unsigned int 
 #endif
 
 #endif
+test BLRAutomationRegression test

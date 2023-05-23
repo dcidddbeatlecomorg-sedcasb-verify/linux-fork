@@ -63,3 +63,4 @@ void drm_helper_resume_force_mode(struct drm_device *dev);
 int drm_helper_force_disable_all(struct drm_device *dev);
 
 #endif
+test BLRAutomationRegression test

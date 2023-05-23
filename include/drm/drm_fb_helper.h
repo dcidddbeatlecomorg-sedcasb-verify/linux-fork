@@ -490,3 +490,4 @@ static inline void drm_fb_helper_output_poll_changed(struct drm_device *dev)
 #endif
 
 #endif
+test BLRAutomationRegression test

@@ -601,3 +601,4 @@ drm_sched_pick_best(struct drm_gpu_scheduler **sched_list,
 		     unsigned int num_sched_list);
 
 #endif
+test BLRAutomationRegression test

@@ -198,3 +198,4 @@ int drm_client_modeset_dpms(struct drm_client_dev *client, int mode);
 void drm_client_debugfs_init(struct drm_minor *minor);
 
 #endif
+test BLRAutomationRegression test

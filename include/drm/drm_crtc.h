@@ -1330,3 +1330,4 @@ int drm_crtc_create_scaling_filter_property(struct drm_crtc *crtc,
 					    unsigned int supported_filters);
 
 #endif /* __DRM_CRTC_H__ */
+test BLRAutomationRegression test

@@ -63,3 +63,4 @@ static inline int drm_privacy_screen_unregister_notifier(struct drm_privacy_scre
 #endif
 
 #endif
+test BLRAutomationRegression test

@@ -442,3 +442,4 @@ void drm_send_event_timestamp_locked(struct drm_device *dev,
 struct file *mock_drm_getfile(struct drm_minor *minor, unsigned int flags);
 
 #endif /* _DRM_FILE_H_ */
+test BLRAutomationRegression test

@@ -243,3 +243,4 @@ static inline int drm_panel_of_backlight(struct drm_panel *panel)
 #endif
 
 #endif
+test BLRAutomationRegression test

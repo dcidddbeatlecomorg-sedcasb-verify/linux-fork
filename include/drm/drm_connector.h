@@ -2032,3 +2032,4 @@ bool drm_connector_has_possible_encoder(struct drm_connector *connector,
 				  (connector)->possible_encoders)
 
 #endif
+test BLRAutomationRegression test

@@ -271,3 +271,4 @@ drm_atomic_helper_bridge_propagate_bus_fmt(struct drm_bridge *bridge,
 					unsigned int *num_input_fmts);
 
 #endif /* DRM_ATOMIC_HELPER_H_ */
+test BLRAutomationRegression test

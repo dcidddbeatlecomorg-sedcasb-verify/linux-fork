@@ -51,3 +51,4 @@ int drm_gem_fb_afbc_init(struct drm_device *dev,
 			 struct drm_afbc_framebuffer *afbc_fb);
 
 #endif
+test BLRAutomationRegression test

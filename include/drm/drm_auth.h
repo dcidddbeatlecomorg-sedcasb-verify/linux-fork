@@ -159,3 +159,4 @@ bool drm_is_current_master(struct drm_file *fpriv);
 struct drm_master *drm_master_create(struct drm_device *dev);
 
 #endif
+test BLRAutomationRegression test

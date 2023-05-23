@@ -127,3 +127,4 @@ struct drm_audio_component {
 };
 
 #endif /* _DRM_AUDIO_COMPONENT_H_ */
+test BLRAutomationRegression test

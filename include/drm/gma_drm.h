@@ -11,3 +11,4 @@
 #define _GMA_DRM_H_
 
 #endif
+test BLRAutomationRegression test

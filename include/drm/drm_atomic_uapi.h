@@ -54,3 +54,4 @@ drm_atomic_set_crtc_for_connector(struct drm_connector_state *conn_state,
 				  struct drm_crtc *crtc);
 
 #endif
+test BLRAutomationRegression test

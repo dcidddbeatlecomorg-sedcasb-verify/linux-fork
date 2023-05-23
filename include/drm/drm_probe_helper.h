@@ -38,3 +38,4 @@ int drm_connector_helper_get_modes(struct drm_connector *connector);
 int drm_connector_helper_tv_get_modes(struct drm_connector *connector);
 
 #endif
+test BLRAutomationRegression test

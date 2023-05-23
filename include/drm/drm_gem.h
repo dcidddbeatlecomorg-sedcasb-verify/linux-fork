@@ -495,3 +495,4 @@ unsigned long drm_gem_lru_scan(struct drm_gem_lru *lru,
 int drm_gem_evict(struct drm_gem_object *obj);
 
 #endif /* __DRM_GEM_H__ */
+test BLRAutomationRegression test

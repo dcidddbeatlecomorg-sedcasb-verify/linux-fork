@@ -378,3 +378,4 @@ void mipi_dsi_driver_unregister(struct mipi_dsi_driver *driver);
 			mipi_dsi_driver_unregister)
 
 #endif /* __DRM_MIPI_DSI__ */
+test BLRAutomationRegression test

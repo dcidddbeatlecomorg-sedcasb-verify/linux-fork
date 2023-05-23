@@ -27,3 +27,4 @@ int drm_gem_ttm_dumb_map_offset(struct drm_file *file, struct drm_device *dev,
 				uint32_t handle, uint64_t *offset);
 
 #endif
+test BLRAutomationRegression test

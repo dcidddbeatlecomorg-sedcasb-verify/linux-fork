@@ -123,3 +123,4 @@ drm_platform_driver_register(struct platform_driver *platform_drv)
 		      platform_driver_unregister)
 
 #endif
+test BLRAutomationRegression test

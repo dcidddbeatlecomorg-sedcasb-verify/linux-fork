@@ -35,3 +35,4 @@ int drm_mode_revoke_lease_ioctl(struct drm_device *dev,
 				void *data, struct drm_file *file_priv);
 
 #endif /* _DRM_LEASE_H_ */
+test BLRAutomationRegression test

@@ -108,3 +108,4 @@ void drmm_kfree(struct drm_device *dev, void *data);
 int drmm_mutex_init(struct drm_device *dev, struct mutex *lock);
 
 #endif
+test BLRAutomationRegression test

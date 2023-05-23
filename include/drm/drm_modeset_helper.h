@@ -42,3 +42,4 @@ int drm_mode_config_helper_suspend(struct drm_device *dev);
 int drm_mode_config_helper_resume(struct drm_device *dev);
 
 #endif
+test BLRAutomationRegression test

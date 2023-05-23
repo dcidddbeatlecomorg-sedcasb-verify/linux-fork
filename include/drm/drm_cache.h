@@ -86,3 +86,4 @@ void drm_memcpy_from_wc(struct iosys_map *dst,
 			const struct iosys_map *src,
 			unsigned long len);
 #endif
+test BLRAutomationRegression test

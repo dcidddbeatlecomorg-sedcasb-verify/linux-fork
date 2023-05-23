@@ -978,3 +978,4 @@ void drm_mode_config_reset(struct drm_device *dev);
 void drm_mode_config_cleanup(struct drm_device *dev);
 
 #endif
+test BLRAutomationRegression test

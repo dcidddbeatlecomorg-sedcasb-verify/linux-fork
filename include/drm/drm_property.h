@@ -308,3 +308,4 @@ static inline struct drm_property *drm_property_find(struct drm_device *dev,
 }
 
 #endif
+test BLRAutomationRegression test
