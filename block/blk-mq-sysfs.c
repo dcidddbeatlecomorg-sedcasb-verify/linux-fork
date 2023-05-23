@@ -307,3 +307,4 @@ unlock:
 
 	return ret;
 }
+test BLRAutomationRegression test

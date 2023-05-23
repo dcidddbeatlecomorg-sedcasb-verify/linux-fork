@@ -224,3 +224,4 @@ static void __exit ioprio_exit(void)
 
 module_init(ioprio_init);
 module_exit(ioprio_exit);
+test BLRAutomationRegression test

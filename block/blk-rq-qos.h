@@ -177,3 +177,4 @@ static inline void rq_qos_queue_depth_changed(struct request_queue *q)
 void rq_qos_exit(struct request_queue *);
 
 #endif
+test BLRAutomationRegression test

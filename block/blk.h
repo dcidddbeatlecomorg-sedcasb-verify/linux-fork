@@ -487,3 +487,4 @@ static inline int req_ref_read(struct request *req)
 }
 
 #endif /* BLK_INTERNAL_H */
+test BLRAutomationRegression test

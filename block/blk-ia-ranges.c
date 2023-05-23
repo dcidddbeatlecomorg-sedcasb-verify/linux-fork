@@ -316,3 +316,4 @@ unlock:
 	mutex_unlock(&q->sysfs_dir_lock);
 }
 EXPORT_SYMBOL_GPL(disk_set_independent_access_ranges);
+test BLRAutomationRegression test

@@ -93,3 +93,4 @@ static inline int queue_zone_wlock_show(void *data, struct seq_file *m)
 #endif
 
 #endif
+test BLRAutomationRegression test

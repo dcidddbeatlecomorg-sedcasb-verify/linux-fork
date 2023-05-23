@@ -269,3 +269,4 @@ MODULE_DESCRIPTION(BSG_DESCRIPTION);
 MODULE_LICENSE("GPL");
 
 device_initcall(bsg_init);
+test BLRAutomationRegression test

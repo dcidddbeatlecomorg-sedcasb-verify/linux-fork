@@ -20,3 +20,4 @@ int queue_zone_wlock_show(void *data, struct seq_file *m)
 
 	return 0;
 }
+test BLRAutomationRegression test

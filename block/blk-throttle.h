@@ -206,3 +206,4 @@ static inline bool blk_throtl_bio(struct bio *bio)
 #endif /* CONFIG_BLK_DEV_THROTTLING */
 
 #endif
+test BLRAutomationRegression test

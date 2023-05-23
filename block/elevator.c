@@ -819,3 +819,4 @@ static int __init elevator_setup(char *str)
 }
 
 __setup("elevator=", elevator_setup);
+test BLRAutomationRegression test

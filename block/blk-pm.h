@@ -33,3 +33,4 @@ static inline void blk_pm_mark_last_busy(struct request *rq)
 #endif
 
 #endif /* _BLOCK_BLK_PM_H_ */
+test BLRAutomationRegression test

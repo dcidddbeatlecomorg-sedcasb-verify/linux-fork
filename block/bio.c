@@ -1810,3 +1810,4 @@ static int __init init_bio(void)
 	return 0;
 }
 subsys_initcall(init_bio);
+test BLRAutomationRegression test

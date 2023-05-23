@@ -550,3 +550,4 @@ void blk_mq_exit_sched(struct request_queue *q, struct elevator_queue *e)
 	blk_mq_sched_tags_teardown(q, flags);
 	q->elevator = NULL;
 }
+test BLRAutomationRegression test

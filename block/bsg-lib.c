@@ -409,3 +409,4 @@ out_tag_set:
 	return ERR_PTR(ret);
 }
 EXPORT_SYMBOL_GPL(bsg_setup_queue);
+test BLRAutomationRegression test

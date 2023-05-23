@@ -1699,3 +1699,4 @@ void bfq_add_bfqq_busy(struct bfq_queue *bfqq)
 			       &bfqq->waker_bfqq->woken_list);
 	}
 }
+test BLRAutomationRegression test

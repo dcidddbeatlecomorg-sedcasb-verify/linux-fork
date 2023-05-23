@@ -2487,3 +2487,4 @@ static int __init throtl_init(void)
 }
 
 module_init(throtl_init);
+test BLRAutomationRegression test

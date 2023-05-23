@@ -44,3 +44,4 @@ fallback:
 	blk_mq_map_queues(qmap);
 }
 EXPORT_SYMBOL_GPL(blk_mq_virtio_map_queues);
+test BLRAutomationRegression test

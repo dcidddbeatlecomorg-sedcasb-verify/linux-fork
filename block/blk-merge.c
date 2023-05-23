@@ -1188,3 +1188,4 @@ bool blk_mq_sched_try_merge(struct request_queue *q, struct bio *bio,
 	}
 }
 EXPORT_SYMBOL_GPL(blk_mq_sched_try_merge);
+test BLRAutomationRegression test

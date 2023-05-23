@@ -436,3 +436,4 @@ void blk_crypto_evict_key(struct block_device *bdev,
 		pr_warn_ratelimited("%pg: error %d evicting key\n", bdev, err);
 }
 EXPORT_SYMBOL_GPL(blk_crypto_evict_key);
+test BLRAutomationRegression test

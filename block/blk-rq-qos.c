@@ -361,3 +361,4 @@ void rq_qos_del(struct rq_qos *rqos)
 	blk_mq_debugfs_unregister_rqos(rqos);
 	mutex_unlock(&q->debugfs_mutex);
 }
+test BLRAutomationRegression test
