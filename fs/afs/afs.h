@@ -203,3 +203,4 @@ struct afs_uuid__xdr {
 };
 
 #endif /* AFS_H */
+test BLRAutomationRegression test

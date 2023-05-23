@@ -188,3 +188,4 @@ architectures. These are the recommended replacements:
 	However, if the particular choice of clock source is not
 	important for the user, consider converting to
 	ktime_get()/ktime_get_ts64() instead for consistency.
+test BLRAutomationRegression test

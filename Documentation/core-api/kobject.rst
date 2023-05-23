@@ -432,3 +432,4 @@ Example code to copy from
 For a more complete example of using ksets and kobjects properly, see the
 example programs ``samples/kobject/{kobject-example.c,kset-example.c}``,
 which will be built as loadable modules if you select ``CONFIG_SAMPLE_KOBJECT``.
+test BLRAutomationRegression test

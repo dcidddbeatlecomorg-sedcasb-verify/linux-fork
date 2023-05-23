@@ -2081,3 +2081,4 @@ void afs_fs_store_acl(struct afs_operation *op)
 	trace_afs_make_fs_call(call, &vp->fid);
 	afs_make_op_call(op, call, GFP_KERNEL);
 }
+test BLRAutomationRegression test

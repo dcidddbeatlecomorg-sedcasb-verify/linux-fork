@@ -392,3 +392,4 @@ void afs_dynroot_depopulate(struct super_block *sb)
 		inode_unlock(root->d_inode);
 	}
 }
+test BLRAutomationRegression test

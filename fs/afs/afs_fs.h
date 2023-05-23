@@ -60,3 +60,4 @@ enum AFS_FS_Errors {
 };
 
 #endif /* AFS_FS_H */
+test BLRAutomationRegression test

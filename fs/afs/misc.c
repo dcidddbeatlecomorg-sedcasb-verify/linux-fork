@@ -172,3 +172,4 @@ void afs_prioritise_error(struct afs_error *e, int error, u32 abort_code)
 		return;
 	}
 }
+test BLRAutomationRegression test

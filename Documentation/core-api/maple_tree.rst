@@ -215,3 +215,4 @@ Functions and structures
 
 .. kernel-doc:: include/linux/maple_tree.h
 .. kernel-doc:: lib/maple_tree.c
+test BLRAutomationRegression test

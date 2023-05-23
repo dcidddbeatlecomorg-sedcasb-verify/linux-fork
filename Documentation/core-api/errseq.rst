@@ -157,3 +157,4 @@ Functions
 =========
 
 .. kernel-doc:: lib/errseq.c
+test BLRAutomationRegression test

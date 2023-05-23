@@ -183,3 +183,4 @@ Memory allocated by `vmalloc` can be freed with `vfree` or `kvfree`.
 Memory allocated by `kvmalloc` can be freed with `kvfree`.
 Caches created by `kmem_cache_create` should be freed with
 `kmem_cache_destroy` only after freeing all the allocated objects first.
+test BLRAutomationRegression test

@@ -142,3 +142,4 @@ writing of special-purpose memory allocators in the future.
 
 .. kernel-doc:: lib/genalloc.c
    :functions: of_gen_pool_get
+test BLRAutomationRegression test

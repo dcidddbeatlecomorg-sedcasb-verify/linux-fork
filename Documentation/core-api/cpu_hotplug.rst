@@ -754,3 +754,4 @@ Kernel Inline Documentations Reference
 ======================================
 
 .. kernel-doc:: include/linux/cpuhotplug.h
+test BLRAutomationRegression test

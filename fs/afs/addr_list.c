@@ -402,3 +402,4 @@ int afs_end_cursor(struct afs_addr_cursor *ac)
 
 	return ac->error;
 }
+test BLRAutomationRegression test

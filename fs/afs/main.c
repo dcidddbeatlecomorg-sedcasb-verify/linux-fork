@@ -242,3 +242,4 @@ static void __exit afs_exit(void)
 }
 
 module_exit(afs_exit);
+test BLRAutomationRegression test

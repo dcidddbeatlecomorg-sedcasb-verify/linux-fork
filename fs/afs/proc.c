@@ -703,3 +703,4 @@ void afs_proc_cleanup(struct afs_net *net)
 	proc_remove(net->proc_afs);
 	net->proc_afs = NULL;
 }
+test BLRAutomationRegression test

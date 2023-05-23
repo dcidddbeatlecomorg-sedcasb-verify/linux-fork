@@ -1047,3 +1047,4 @@ static void afs_write_to_cache(struct afs_vnode *vnode,
 			       vnode->netfs.inode.i_mapping, start, len, i_size,
 			       afs_write_to_cache_done, vnode, caching);
 }
+test BLRAutomationRegression test

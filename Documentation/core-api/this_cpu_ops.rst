@@ -337,3 +337,4 @@ mind that a remote write will evict the cache line from the processor
 that most likely will access it. If the processor wakes up and finds a
 missing local cache line of a per cpu area, its performance and hence
 the wake up times will be affected.
+test BLRAutomationRegression test

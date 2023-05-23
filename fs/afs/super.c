@@ -774,3 +774,4 @@ static int afs_statfs(struct dentry *dentry, struct kstatfs *buf)
 	op->ops			= &afs_get_volume_status_operation;
 	return afs_do_sync_operation(op);
 }
+test BLRAutomationRegression test

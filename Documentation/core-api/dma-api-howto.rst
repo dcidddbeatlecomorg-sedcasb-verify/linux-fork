@@ -913,3 +913,4 @@ following people::
 	Andrea Arcangeli <andrea@suse.de>
 	Jens Axboe <jens.axboe@oracle.com>
 	David Mosberger-Tang <davidm@hpl.hp.com>
+test BLRAutomationRegression test

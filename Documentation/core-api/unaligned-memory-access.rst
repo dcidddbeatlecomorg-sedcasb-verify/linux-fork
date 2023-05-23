@@ -263,3 +263,4 @@ made dependent on CONFIG_HAVE_EFFICIENT_UNALIGNED_ACCESS like so::
 	#else
 		skb = copy skb
 	#endif
+test BLRAutomationRegression test

@@ -648,3 +648,4 @@ If you add other %p extensions, please extend <lib/test_printf.c> with
 one or more test cases, if at all feasible.
 
 Thank you for your cooperation and attention.
+test BLRAutomationRegression test

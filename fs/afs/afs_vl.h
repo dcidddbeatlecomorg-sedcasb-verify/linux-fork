@@ -144,3 +144,4 @@ struct afs_address_list {
 extern void afs_put_address_list(struct afs_address_list *alist);
 
 #endif /* AFS_VL_H */
+test BLRAutomationRegression test

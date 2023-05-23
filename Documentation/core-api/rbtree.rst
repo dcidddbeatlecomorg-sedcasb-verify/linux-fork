@@ -427,3 +427,4 @@ Insertion/removal are defined using the following augmented callbacks::
   {
 	rb_erase_augmented(&node->rb, root, &augment_callbacks);
   }
+test BLRAutomationRegression test

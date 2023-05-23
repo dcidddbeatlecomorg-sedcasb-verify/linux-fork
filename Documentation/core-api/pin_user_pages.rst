@@ -276,3 +276,4 @@ References
 * `LWN kernel index: get_user_pages() <https://lwn.net/Kernel/Index/#Memory_management-get_user_pages>`_
 
 John Hubbard, October, 2019
+test BLRAutomationRegression test

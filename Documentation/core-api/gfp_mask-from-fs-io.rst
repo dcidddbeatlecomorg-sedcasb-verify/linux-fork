@@ -66,3 +66,4 @@ and so no special care is required and vmalloc should be called without
 any problems. Sometimes if the context is not really clear or there are
 layering violations then the recommended way around that is to wrap ``vmalloc``
 by the scope API with a comment explaining the problem.
+test BLRAutomationRegression test

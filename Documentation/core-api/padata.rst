@@ -176,3 +176,4 @@ Interface
 
 .. kernel-doc:: include/linux/padata.h
 .. kernel-doc:: kernel/padata.c
+test BLRAutomationRegression test

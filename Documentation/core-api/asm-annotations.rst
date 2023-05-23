@@ -220,3 +220,4 @@ Architecture can also override any of the macros in their own
 described in this file is surrounded by ``#ifdef`` + ``#endif``, it is enough
 to define the macros differently in the aforementioned architecture-dependent
 header.
+test BLRAutomationRegression test

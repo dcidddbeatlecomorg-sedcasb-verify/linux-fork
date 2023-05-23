@@ -280,3 +280,4 @@ int afs_silly_iput(struct dentry *dentry, struct inode *inode)
 	dput(alias);
 	return 1;
 }
+test BLRAutomationRegression test

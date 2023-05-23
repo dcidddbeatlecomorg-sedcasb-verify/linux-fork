@@ -114,3 +114,4 @@ static inline unsigned int afs_dir_calc_slots(size_t name_len)
 }
 
 #endif /* XDR_FS_H */
+test BLRAutomationRegression test

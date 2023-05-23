@@ -1951,3 +1951,4 @@ void yfs_fs_store_opaque_acl2(struct afs_operation *op)
 	trace_afs_make_fs_call(call, &vp->fid);
 	afs_make_op_call(op, call, GFP_KERNEL);
 }
+test BLRAutomationRegression test

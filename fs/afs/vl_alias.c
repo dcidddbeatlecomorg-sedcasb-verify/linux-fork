@@ -381,3 +381,4 @@ int afs_cell_detect_alias(struct afs_cell *cell, struct key *key)
 			  cell->name, cell->alias_of->name);
 	return ret;
 }
+test BLRAutomationRegression test

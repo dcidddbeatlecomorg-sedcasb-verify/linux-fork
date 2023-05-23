@@ -164,3 +164,4 @@ programmer against incorrect API use.  The errors are not expected to occur
 during runtime, therefore it is reasonable for xxx_packing() to return void
 and simply swallow those errors. Optionally it can dump stack or print the
 error description.
+test BLRAutomationRegression test

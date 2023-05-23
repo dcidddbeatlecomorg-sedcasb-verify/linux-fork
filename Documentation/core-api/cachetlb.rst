@@ -397,3 +397,4 @@ I/O and invalidating it after the I/O returns.
        speculatively reading data while the I/O was occurring to the
        physical pages.  This is only necessary for data reads into the
        vmap area.
+test BLRAutomationRegression test

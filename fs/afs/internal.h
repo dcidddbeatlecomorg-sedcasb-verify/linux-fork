@@ -1772,3 +1772,4 @@ do {						\
 } while(0)
 
 #endif /* __KDEBUGALL */
+test BLRAutomationRegression test

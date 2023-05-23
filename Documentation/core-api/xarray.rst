@@ -494,3 +494,4 @@ Functions and structures
 
 .. kernel-doc:: include/linux/xarray.h
 .. kernel-doc:: lib/xarray.c
+test BLRAutomationRegression test

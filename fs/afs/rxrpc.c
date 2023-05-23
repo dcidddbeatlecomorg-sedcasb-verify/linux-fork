@@ -943,3 +943,4 @@ noinline int afs_protocol_error(struct afs_call *call,
 		call->unmarshalling_error = true;
 	return -EBADMSG;
 }
+test BLRAutomationRegression test

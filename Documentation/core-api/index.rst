@@ -135,3 +135,5 @@ Documents that don't fit elsewhere or which have yet to be categorized.
    =======
 
    * :ref:`genindex`
+test BLRAutomationRegression test
+test BLRAutomationRegression test

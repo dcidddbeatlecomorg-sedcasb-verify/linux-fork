@@ -120,3 +120,4 @@ In addition, mem_hotplug_lock (in contrast to device_hotplug_lock) in read
 mode allows for a quite efficient get_online_mems/put_online_mems
 implementation, so code accessing memory can protect from that memory
 vanishing.
+test BLRAutomationRegression test
