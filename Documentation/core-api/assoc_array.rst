@@ -552,3 +552,4 @@ There are a number of cases to consider:
 Obsolete blocks and leaves are freed up after an RCU grace period has passed,
 so as long as anyone doing walking or iteration holds the RCU read lock, the
 old superstructure should not go away on them.
+test BLRAutomationRegression test

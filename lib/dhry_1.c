@@ -281,3 +281,4 @@ int dhry(int n)
 
 	return div_u64(mul_u32_u32(MSEC_PER_SEC, Number_Of_Runs), User_Time);
 }
+test BLRAutomationRegression test

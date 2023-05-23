@@ -45,3 +45,4 @@ const u8 byte_rev_table[256] = {
 EXPORT_SYMBOL_GPL(byte_rev_table);
 
 #endif /* CONFIG_HAVE_ARCH_BITREVERSE */
+test BLRAutomationRegression test

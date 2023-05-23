@@ -950,3 +950,4 @@ void afs_cell_purge(struct afs_net *net)
 		       !atomic_read(&net->cells_outstanding));
 	_leave("");
 }
+test BLRAutomationRegression test

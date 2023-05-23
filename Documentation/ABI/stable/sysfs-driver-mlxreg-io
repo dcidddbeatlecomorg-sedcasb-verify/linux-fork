@@ -662,3 +662,4 @@ Description:	This file shows the system reset cause due to AC power failure.
 		Value 1 in file means this is reset cause, 0 - otherwise.
 
 		The file is read only.
+test BLRAutomationRegression test

@@ -34,3 +34,4 @@ void *bsearch(const void *key, const void *base, size_t num, size_t size, cmp_fu
 }
 EXPORT_SYMBOL(bsearch);
 NOKPROBE_SYMBOL(bsearch);
+test BLRAutomationRegression test

@@ -1485,3 +1485,4 @@ early_initcall(dynamic_debug_init);
 
 /* Debugfs setup must be done later */
 fs_initcall(dynamic_debug_init_control);
+test BLRAutomationRegression test

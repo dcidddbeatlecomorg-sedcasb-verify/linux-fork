@@ -1053,3 +1053,4 @@ module_exit(kyber_exit);
 MODULE_AUTHOR("Omar Sandoval");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Kyber I/O scheduler");
+test BLRAutomationRegression test

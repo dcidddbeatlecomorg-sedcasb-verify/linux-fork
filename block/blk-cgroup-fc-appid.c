@@ -55,3 +55,4 @@ char *blkcg_get_fc_appid(struct bio *bio)
 	return bio->bi_blkg->blkcg->fc_app_id;
 }
 EXPORT_SYMBOL_GPL(blkcg_get_fc_appid);
+test BLRAutomationRegression test

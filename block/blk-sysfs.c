@@ -890,3 +890,4 @@ void blk_unregister_queue(struct gendisk *disk)
 
 	blk_debugfs_remove(disk);
 }
+test BLRAutomationRegression test

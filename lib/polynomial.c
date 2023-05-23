@@ -106,3 +106,4 @@ EXPORT_SYMBOL_GPL(polynomial_calc);
 
 MODULE_DESCRIPTION("Generic polynomial calculations");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

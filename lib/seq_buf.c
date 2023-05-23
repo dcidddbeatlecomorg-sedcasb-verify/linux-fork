@@ -427,3 +427,4 @@ int seq_buf_hex_dump(struct seq_buf *s, const char *prefix_str, int prefix_type,
 	}
 	return 0;
 }
+test BLRAutomationRegression test

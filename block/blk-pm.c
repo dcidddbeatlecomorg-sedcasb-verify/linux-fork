@@ -212,3 +212,4 @@ void blk_set_runtime_active(struct request_queue *q)
 		blk_clear_pm_only(q);
 }
 EXPORT_SYMBOL(blk_set_runtime_active);
+test BLRAutomationRegression test

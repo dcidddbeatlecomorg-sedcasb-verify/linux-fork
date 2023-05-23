@@ -9,3 +9,4 @@ unsigned int _parse_integer_limit(const char *s, unsigned int base, unsigned lon
 unsigned int _parse_integer(const char *s, unsigned int base, unsigned long long *res);
 
 #endif
+test BLRAutomationRegression test

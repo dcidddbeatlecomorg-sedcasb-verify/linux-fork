@@ -140,3 +140,4 @@ kunit_test_suite(strscpy_test_suite);
 
 MODULE_AUTHOR("Tobin C. Harding <tobin@kernel.org>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

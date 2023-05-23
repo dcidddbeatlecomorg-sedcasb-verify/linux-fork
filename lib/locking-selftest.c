@@ -3013,3 +3013,4 @@ void locking_selftest(void)
 	lockdep_set_selftest_task(NULL);
 	debug_locks_silent = 0;
 }
+test BLRAutomationRegression test

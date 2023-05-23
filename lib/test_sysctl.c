@@ -177,3 +177,4 @@ module_exit(test_sysctl_exit);
 
 MODULE_AUTHOR("Luis R. Rodriguez <mcgrof@kernel.org>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

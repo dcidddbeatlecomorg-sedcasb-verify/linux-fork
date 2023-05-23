@@ -956,3 +956,4 @@ err_free:
 	return ret;
 
 }
+test BLRAutomationRegression test

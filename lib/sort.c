@@ -290,3 +290,4 @@ void sort(void *base, size_t num, size_t size,
 	return sort_r(base, num, size, _CMP_WRAPPER, SWAP_WRAPPER, &w);
 }
 EXPORT_SYMBOL(sort);
+test BLRAutomationRegression test

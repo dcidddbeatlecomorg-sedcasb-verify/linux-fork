@@ -147,3 +147,4 @@ static inline void blkg_rwstat_add_aux(struct blkg_rwstat *to,
 			     &to->aux_cnt[i]);
 }
 #endif	/* _BLK_CGROUP_RWSTAT_H */
+test BLRAutomationRegression test

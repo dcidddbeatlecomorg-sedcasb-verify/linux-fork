@@ -318,3 +318,4 @@ EXPORT_SYMBOL(logic_outl);
 EXPORT_SYMBOL(logic_outsl);
 
 #endif /* CONFIG_INDIRECT_PIO && PCI_IOBASE */
+test BLRAutomationRegression test

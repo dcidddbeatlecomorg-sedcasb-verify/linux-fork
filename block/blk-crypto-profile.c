@@ -549,3 +549,4 @@ void blk_crypto_update_capabilities(struct blk_crypto_profile *dst,
 	dst->max_dun_bytes_supported = src->max_dun_bytes_supported;
 }
 EXPORT_SYMBOL_GPL(blk_crypto_update_capabilities);
+test BLRAutomationRegression test

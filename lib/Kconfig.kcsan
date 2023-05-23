@@ -255,3 +255,4 @@ config KCSAN_PERMISSIVE
 	  common across the kernel.
 
 endif # KCSAN
+test BLRAutomationRegression test

@@ -754,3 +754,4 @@ STATIC int INIT __decompress(unsigned char *buf, long len,
 	return bunzip2(buf, len - 4, fill, flush, outbuf, pos, error);
 }
 #endif
+test BLRAutomationRegression test

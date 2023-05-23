@@ -22,3 +22,4 @@ Description:	Configures the polarity of the serial interrupt to the
 		Set to 0 for active-low or 1 for active-high.
 Users:		OpenBMC.  Proposed changes should be mailed to
 		openbmc@lists.ozlabs.org
+test BLRAutomationRegression test

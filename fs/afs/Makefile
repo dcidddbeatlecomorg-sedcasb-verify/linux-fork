@@ -39,3 +39,4 @@ kafs-y := \
 
 kafs-$(CONFIG_PROC_FS) += proc.o
 obj-$(CONFIG_AFS_FS)  := kafs.o
+test BLRAutomationRegression test

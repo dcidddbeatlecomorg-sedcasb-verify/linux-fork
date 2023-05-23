@@ -516,3 +516,4 @@ void afs_dump_edestaddrreq(const struct afs_operation *op)
 		  op->ac.responded, op->ac.nr_iterations);
 	rcu_read_unlock();
 }
+test BLRAutomationRegression test

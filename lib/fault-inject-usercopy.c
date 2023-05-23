@@ -37,3 +37,4 @@ bool should_fail_usercopy(void)
 	return should_fail(&fail_usercopy.attr, 1);
 }
 EXPORT_SYMBOL_GPL(should_fail_usercopy);
+test BLRAutomationRegression test

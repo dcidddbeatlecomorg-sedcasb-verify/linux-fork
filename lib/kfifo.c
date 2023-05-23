@@ -590,3 +590,4 @@ void __kfifo_dma_out_finish_r(struct __kfifo *fifo, size_t recsize)
 	fifo->out += len + recsize;
 }
 EXPORT_SYMBOL(__kfifo_dma_out_finish_r);
+test BLRAutomationRegression test

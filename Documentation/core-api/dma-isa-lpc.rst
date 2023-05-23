@@ -150,3 +150,4 @@ suspended while a DMA transfer is in progress. Also, all DMA settings
 are lost when the system suspends so if your driver relies on the DMA
 controller being in a certain state then you have to restore these
 registers upon resume.
+test BLRAutomationRegression test

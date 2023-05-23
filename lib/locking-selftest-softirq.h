@@ -8,3 +8,4 @@
 #define IRQ_ENABLE		SOFTIRQ_ENABLE
 #define IRQ_ENTER		SOFTIRQ_ENTER
 #define IRQ_EXIT		SOFTIRQ_EXIT
+test BLRAutomationRegression test

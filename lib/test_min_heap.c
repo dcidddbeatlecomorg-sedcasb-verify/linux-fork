@@ -192,3 +192,4 @@ static void __exit test_min_heap_exit(void)
 module_exit(test_min_heap_exit);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

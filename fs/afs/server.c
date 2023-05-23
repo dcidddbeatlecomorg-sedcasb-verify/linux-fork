@@ -723,3 +723,4 @@ wait:
 	}
 	goto retry;
 }
+test BLRAutomationRegression test

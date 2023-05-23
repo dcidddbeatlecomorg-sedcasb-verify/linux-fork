@@ -273,3 +273,4 @@ char *next_arg(char *args, char **param, char **val)
 	return skip_spaces(args);
 }
 EXPORT_SYMBOL(next_arg);
+test BLRAutomationRegression test

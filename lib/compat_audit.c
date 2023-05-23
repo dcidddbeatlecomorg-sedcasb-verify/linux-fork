@@ -54,3 +54,4 @@ int audit_classify_compat_syscall(int abi, unsigned syscall)
 		return AUDITSC_COMPAT;
 	}
 }
+test BLRAutomationRegression test

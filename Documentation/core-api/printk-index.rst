@@ -135,3 +135,4 @@ This results in the following printk index entry::
 It helps matching messages from the real log with printk index.
 Then the source file name, line number, and function name can
 be used to match the string with the source code.
+test BLRAutomationRegression test

@@ -134,3 +134,4 @@ Description:
 		a somewhat shorter format which was not as close to SAM.
 
 Users:		udev rules to create /dev/disk/by-id/ symlinks
+test BLRAutomationRegression test

@@ -23,3 +23,4 @@ int v9fs_xattr_set(struct dentry *dentry, const char *name,
 ssize_t v9fs_listxattr(struct dentry *dentry, char *buffer,
 		       size_t buffer_size);
 #endif /* FS_9P_XATTR_H */
+test BLRAutomationRegression test

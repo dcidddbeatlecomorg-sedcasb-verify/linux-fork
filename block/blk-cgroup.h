@@ -507,3 +507,4 @@ static inline bool blk_cgroup_mergeable(struct request *rq, struct bio *bio) { r
 #endif	/* CONFIG_BLK_CGROUP */
 
 #endif /* _BLK_CGROUP_PRIVATE_H */
+test BLRAutomationRegression test

@@ -25,3 +25,4 @@ Description:
 		unsigned int (%u, u32).  It is set automatically,
 		serially assigned with each new login.
 
+test BLRAutomationRegression test

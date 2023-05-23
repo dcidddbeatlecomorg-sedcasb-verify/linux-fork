@@ -171,3 +171,4 @@ void blk_rq_stat_sum(struct blk_rq_stat *, struct blk_rq_stat *);
 void blk_rq_stat_init(struct blk_rq_stat *);
 
 #endif
+test BLRAutomationRegression test

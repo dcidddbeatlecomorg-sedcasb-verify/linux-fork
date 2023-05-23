@@ -217,3 +217,4 @@ static struct kunit_suite range_test_module = {
 kunit_test_suites(&range_test_module);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

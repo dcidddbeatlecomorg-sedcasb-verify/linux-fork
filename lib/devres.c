@@ -600,3 +600,4 @@ int devm_arch_io_reserve_memtype_wc(struct device *dev, resource_size_t start,
 	return ret;
 }
 EXPORT_SYMBOL(devm_arch_io_reserve_memtype_wc);
+test BLRAutomationRegression test

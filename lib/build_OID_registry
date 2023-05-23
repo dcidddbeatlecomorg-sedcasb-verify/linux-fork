@@ -201,3 +201,4 @@ print C_FILE "};\n";
 # Polish off
 #
 close C_FILE or die;
+test BLRAutomationRegression test

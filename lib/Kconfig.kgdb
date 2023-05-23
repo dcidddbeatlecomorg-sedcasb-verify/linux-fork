@@ -163,3 +163,4 @@ config ARCH_HAS_EARLY_DEBUG
 	  depending on exactly how far along the architecture has initted.
 
 endif # KGDB
+test BLRAutomationRegression test

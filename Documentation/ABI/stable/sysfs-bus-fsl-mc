@@ -17,3 +17,4 @@ Description:	Writing a zero value to this attribute will
 		of the fsl-mc bus is performed. A non-zero value
 		will enable the DPRC IRQs.
 Users:		Userspace drivers and management tools
+test BLRAutomationRegression test

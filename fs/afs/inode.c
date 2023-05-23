@@ -981,3 +981,4 @@ out_unlock:
 	_leave(" = %d", ret);
 	return ret;
 }
+test BLRAutomationRegression test

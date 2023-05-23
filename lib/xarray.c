@@ -2303,3 +2303,4 @@ void xa_dump(const struct xarray *xa)
 	xa_dump_entry(entry, 0, shift);
 }
 #endif
+test BLRAutomationRegression test

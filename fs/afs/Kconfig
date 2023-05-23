@@ -41,3 +41,4 @@ config AFS_DEBUG_CURSOR
 	  See <file:Documentation/filesystems/afs.rst> for more information.
 
 	  If unsure, say N.
+test BLRAutomationRegression test

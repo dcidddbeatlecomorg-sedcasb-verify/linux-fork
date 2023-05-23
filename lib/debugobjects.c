@@ -1428,3 +1428,4 @@ void __init debug_objects_mem_init(void)
 	debug_objects_pool_size += extras;
 	debug_objects_pool_min_level += extras;
 }
+test BLRAutomationRegression test

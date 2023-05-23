@@ -178,3 +178,4 @@ cleanup_sdb:
 }
 
 subsys_initcall(sg_pool_init);
+test BLRAutomationRegression test

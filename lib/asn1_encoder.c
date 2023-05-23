@@ -450,3 +450,4 @@ asn1_encode_boolean(unsigned char *data, const unsigned char *end_data,
 EXPORT_SYMBOL_GPL(asn1_encode_boolean);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

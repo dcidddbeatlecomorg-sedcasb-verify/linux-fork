@@ -27,3 +27,4 @@ void bust_spinlocks(int yes)
 			wake_up_klogd();
 	}
 }
+test BLRAutomationRegression test

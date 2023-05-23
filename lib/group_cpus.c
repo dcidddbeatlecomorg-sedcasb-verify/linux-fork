@@ -427,3 +427,4 @@ struct cpumask *group_cpus_evenly(unsigned int numgrps)
 }
 #endif /* CONFIG_SMP */
 EXPORT_SYMBOL_GPL(group_cpus_evenly);
+test BLRAutomationRegression test

@@ -346,3 +346,4 @@ int afs_end_vlserver_operation(struct afs_vl_cursor *vc)
 
 	return vc->error;
 }
+test BLRAutomationRegression test

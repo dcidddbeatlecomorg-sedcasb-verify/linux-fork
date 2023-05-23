@@ -82,3 +82,4 @@ Functions and structures
    :functions:
 .. kernel-doc:: lib/idr.c
    :functions:
+test BLRAutomationRegression test

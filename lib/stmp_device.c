@@ -75,3 +75,4 @@ error:
 	return -ETIMEDOUT;
 }
 EXPORT_SYMBOL(stmp_reset_block);
+test BLRAutomationRegression test

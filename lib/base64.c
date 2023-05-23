@@ -101,3 +101,4 @@ int base64_decode(const char *src, int srclen, u8 *dst)
 	return bp - dst;
 }
 EXPORT_SYMBOL_GPL(base64_decode);
+test BLRAutomationRegression test

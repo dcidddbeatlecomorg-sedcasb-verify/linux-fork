@@ -597,3 +597,4 @@ static void ida_dump(struct ida *ida)
 	ida_dump_entry(xa->xa_head, 0);
 }
 #endif
+test BLRAutomationRegression test

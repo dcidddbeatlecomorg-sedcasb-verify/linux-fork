@@ -2914,3 +2914,4 @@ config RUST_BUILD_ASSERT_ALLOW
 endmenu # "Rust"
 
 endmenu # Kernel hacking
+test BLRAutomationRegression test

@@ -130,3 +130,4 @@ enum {
 	UAENOMEDIUM		= 0x2f6df79, /* No medium found */
 	UAEMEDIUMTYPE		= 0x2f6df7a, /* Wrong medium type */
 };
+test BLRAutomationRegression test

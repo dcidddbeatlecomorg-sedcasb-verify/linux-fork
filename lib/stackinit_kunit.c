@@ -459,3 +459,4 @@ static struct kunit_suite stackinit_test_suite = {
 kunit_test_suites(&stackinit_test_suite);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

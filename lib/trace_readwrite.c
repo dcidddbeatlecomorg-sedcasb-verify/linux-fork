@@ -45,3 +45,4 @@ void log_post_read_mmio(u64 val, u8 width, const volatile void __iomem *addr,
 EXPORT_SYMBOL_GPL(log_post_read_mmio);
 EXPORT_TRACEPOINT_SYMBOL_GPL(rwmmio_post_read);
 #endif /* CONFIG_TRACE_MMIO_ACCESS */
+test BLRAutomationRegression test

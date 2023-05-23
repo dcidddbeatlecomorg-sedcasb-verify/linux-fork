@@ -98,3 +98,4 @@ err_fault:
 	return -EFAULT;
 }
 EXPORT_SYMBOL(check_zeroed_user);
+test BLRAutomationRegression test

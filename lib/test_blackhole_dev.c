@@ -98,3 +98,4 @@ module_exit(test_blackholedev_exit);
 
 MODULE_AUTHOR("Mahesh Bandewar <maheshb@google.com>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

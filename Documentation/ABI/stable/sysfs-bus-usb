@@ -140,3 +140,4 @@ Description:
 		Mbit / second. IE one of 1.5 / 12 / 480 / 5000.
 Users:
 		libusb
+test BLRAutomationRegression test

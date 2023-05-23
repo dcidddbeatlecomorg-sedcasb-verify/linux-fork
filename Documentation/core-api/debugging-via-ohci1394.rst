@@ -183,3 +183,4 @@ Documentation and specifications: http://halobates.de/firewire/
 
 FireWire is a trademark of Apple Inc. - for more information please refer to:
 https://en.wikipedia.org/wiki/FireWire
+test BLRAutomationRegression test

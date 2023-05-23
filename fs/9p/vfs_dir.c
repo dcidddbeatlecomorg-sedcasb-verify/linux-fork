@@ -251,3 +251,4 @@ const struct file_operations v9fs_dir_operations_dotl = {
 	.release = v9fs_dir_release,
 	.fsync = v9fs_file_fsync_dotl,
 };
+test BLRAutomationRegression test

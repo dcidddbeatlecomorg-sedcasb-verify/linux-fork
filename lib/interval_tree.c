@@ -147,3 +147,4 @@ void interval_tree_span_iter_advance(struct interval_tree_span_iter *iter,
 }
 EXPORT_SYMBOL_GPL(interval_tree_span_iter_advance);
 #endif
+test BLRAutomationRegression test

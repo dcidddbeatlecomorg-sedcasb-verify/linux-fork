@@ -361,3 +361,4 @@ const struct xattr_handler *afs_xattr_handlers[] = {
 	&afs_xattr_yfs_handler,		/* afs.yfs. prefix */
 	NULL
 };
+test BLRAutomationRegression test

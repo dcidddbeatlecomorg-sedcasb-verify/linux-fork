@@ -326,3 +326,4 @@ dump:
 	}
 	return ERR_PTR(ret);
 }
+test BLRAutomationRegression test

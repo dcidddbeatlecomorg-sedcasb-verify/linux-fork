@@ -235,3 +235,4 @@ Further reading
 
 See also Documentation/memory-barriers.txt for a description of Linux's memory
 barrier facilities.
+test BLRAutomationRegression test

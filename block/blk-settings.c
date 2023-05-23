@@ -981,3 +981,4 @@ unsigned int bdev_discard_alignment(struct block_device *bdev)
 	return q->limits.discard_alignment;
 }
 EXPORT_SYMBOL_GPL(bdev_discard_alignment);
+test BLRAutomationRegression test

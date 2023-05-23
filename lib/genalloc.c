@@ -905,3 +905,4 @@ struct gen_pool *of_gen_pool_get(struct device_node *np,
 }
 EXPORT_SYMBOL_GPL(of_gen_pool_get);
 #endif /* CONFIG_OF */
+test BLRAutomationRegression test

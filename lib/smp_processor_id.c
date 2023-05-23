@@ -66,3 +66,4 @@ noinstr void __this_cpu_preempt_check(const char *op)
 	check_preemption_disabled("__this_cpu_", op);
 }
 EXPORT_SYMBOL(__this_cpu_preempt_check);
+test BLRAutomationRegression test

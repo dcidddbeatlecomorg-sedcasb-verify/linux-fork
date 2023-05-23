@@ -72,3 +72,4 @@ void v9fs_cache_inode_get_cookie(struct inode *inode)
 	p9_debug(P9_DEBUG_FSC, "inode %p get cookie %p\n",
 		 inode, v9fs_inode_cookie(v9inode));
 }
+test BLRAutomationRegression test

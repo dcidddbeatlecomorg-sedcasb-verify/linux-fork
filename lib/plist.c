@@ -261,3 +261,4 @@ static int  __init plist_test(void)
 module_init(plist_test);
 
 #endif
+test BLRAutomationRegression test

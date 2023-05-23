@@ -7220,3 +7220,4 @@ done:
 EXPORT_SYMBOL_GPL(mt_validate);
 
 #endif /* CONFIG_DEBUG_MAPLE_TREE */
+test BLRAutomationRegression test

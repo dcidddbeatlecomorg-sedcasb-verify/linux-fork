@@ -1082,3 +1082,4 @@ static void __exit iolatency_exit(void)
 
 module_init(iolatency_init);
 module_exit(iolatency_exit);
+test BLRAutomationRegression test

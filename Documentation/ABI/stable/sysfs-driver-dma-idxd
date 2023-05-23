@@ -353,3 +353,4 @@ Contact:	dmaengine@vger.kernel.org
 Description:	Show the process id of the application that opened the file. This is
 		helpful information for a monitor daemon that wants to kill the
 		application that opened the file.
+test BLRAutomationRegression test

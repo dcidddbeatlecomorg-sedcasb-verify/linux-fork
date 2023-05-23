@@ -290,3 +290,4 @@ stop:
 	_leave(" = 0 [%u]", pref);
 	return 0;
 }
+test BLRAutomationRegression test

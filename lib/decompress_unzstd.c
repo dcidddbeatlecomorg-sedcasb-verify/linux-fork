@@ -348,3 +348,4 @@ STATIC int INIT __decompress(unsigned char *buf, long len,
 	return __unzstd(buf, len, fill, flush, out_buf, out_len, pos, error);
 }
 #endif
+test BLRAutomationRegression test

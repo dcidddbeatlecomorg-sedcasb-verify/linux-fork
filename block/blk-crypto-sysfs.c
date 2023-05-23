@@ -171,3 +171,4 @@ static int __init blk_crypto_sysfs_init(void)
 	return 0;
 }
 subsys_initcall(blk_crypto_sysfs_init);
+test BLRAutomationRegression test

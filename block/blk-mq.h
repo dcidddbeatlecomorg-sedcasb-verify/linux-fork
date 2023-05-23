@@ -451,3 +451,4 @@ do {								\
 	__blk_mq_run_dispatch_ops(q, true, dispatch_ops)	\
 
 #endif
+test BLRAutomationRegression test

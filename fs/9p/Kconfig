@@ -43,3 +43,4 @@ config 9P_FS_SECURITY
 
 	  If you are not using a security module that requires using
 	  extended attributes for file security labels, say N.
+test BLRAutomationRegression test

@@ -45,3 +45,4 @@ config BFQ_CGROUP_DEBUG
 	files in a cgroup which can be useful for debugging.
 
 endmenu
+test BLRAutomationRegression test

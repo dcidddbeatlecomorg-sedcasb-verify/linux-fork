@@ -277,3 +277,4 @@ above cannot be handled in an exception-agnostic way.
 NMIs can happen in any context. For example, an NMI-like exception triggered
 while handling an NMI. So NMI entry code has to be reentrant and state updates
 need to handle nesting.
+test BLRAutomationRegression test

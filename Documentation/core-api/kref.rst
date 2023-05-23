@@ -321,3 +321,4 @@ rcu grace period after release_entry_rcu was called. That can be accomplished
 by using kfree_rcu(entry, rhead) as done above, or by calling synchronize_rcu()
 before using kfree, but note that synchronize_rcu() may sleep for a
 substantial amount of time.
+test BLRAutomationRegression test

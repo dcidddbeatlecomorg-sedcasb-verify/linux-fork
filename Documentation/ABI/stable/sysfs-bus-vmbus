@@ -185,3 +185,4 @@ Contact:        Michael Kelley <mikelley@microsoft.com>
 Description:    Total number of write operations that encountered an outbound
 		ring buffer full condition
 Users:          Debugging tools
+test BLRAutomationRegression test

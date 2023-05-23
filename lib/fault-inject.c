@@ -435,3 +435,4 @@ void fault_config_init(struct fault_config *config, const char *name)
 EXPORT_SYMBOL_GPL(fault_config_init);
 
 #endif /* CONFIG_FAULT_INJECTION_CONFIGFS */
+test BLRAutomationRegression test

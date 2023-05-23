@@ -768,3 +768,4 @@ void sbitmap_finish_wait(struct sbitmap_queue *sbq, struct sbq_wait_state *ws,
 	}
 }
 EXPORT_SYMBOL_GPL(sbitmap_finish_wait);
+test BLRAutomationRegression test

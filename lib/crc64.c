@@ -83,3 +83,4 @@ u64 __pure crc64_rocksoft_generic(u64 crc, const void *p, size_t len)
 	return ~crc;
 }
 EXPORT_SYMBOL_GPL(crc64_rocksoft_generic);
+test BLRAutomationRegression test

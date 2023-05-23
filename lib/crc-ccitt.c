@@ -121,3 +121,4 @@ EXPORT_SYMBOL(crc_ccitt_false);
 
 MODULE_DESCRIPTION("CRC-CCITT calculations");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

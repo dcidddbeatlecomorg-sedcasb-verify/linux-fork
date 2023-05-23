@@ -25,3 +25,4 @@ int devmem_is_allowed(unsigned long pfn)
 		return 1;
 	return 0;
 }
+test BLRAutomationRegression test

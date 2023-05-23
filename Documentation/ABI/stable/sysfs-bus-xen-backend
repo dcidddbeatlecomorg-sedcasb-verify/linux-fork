@@ -82,3 +82,4 @@ Description:
                 The state of the device. One of: 'Unknown',
                 'Initialising', 'Initialised', 'Connected', 'Closing',
                 'Closed', 'Reconfiguring', 'Reconfigured'.
+test BLRAutomationRegression test

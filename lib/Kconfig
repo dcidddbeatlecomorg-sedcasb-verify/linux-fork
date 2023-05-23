@@ -763,3 +763,10 @@ config ASN1_ENCODER
 
 config POLYNOMIAL
        tristate
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test

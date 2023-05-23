@@ -599,3 +599,4 @@ void badblocks_exit(struct badblocks *bb)
 	bb->page = NULL;
 }
 EXPORT_SYMBOL_GPL(badblocks_exit);
+test BLRAutomationRegression test

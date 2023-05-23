@@ -1028,3 +1028,4 @@ void fortify_panic(const char *name)
 }
 EXPORT_SYMBOL(fortify_panic);
 #endif /* CONFIG_FORTIFY_SOURCE */
+test BLRAutomationRegression test

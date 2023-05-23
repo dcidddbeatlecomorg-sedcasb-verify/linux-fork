@@ -10,3 +10,4 @@
 
 #undef INIT
 #define INIT		SI
+test BLRAutomationRegression test

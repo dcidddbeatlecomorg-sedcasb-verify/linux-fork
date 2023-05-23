@@ -1724,3 +1724,4 @@ enomem:
 	kfree(edit);
 	return -ENOMEM;
 }
+test BLRAutomationRegression test

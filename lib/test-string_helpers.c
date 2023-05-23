@@ -607,3 +607,4 @@ static int __init test_string_helpers_init(void)
 }
 module_init(test_string_helpers_init);
 MODULE_LICENSE("Dual BSD/GPL");
+test BLRAutomationRegression test

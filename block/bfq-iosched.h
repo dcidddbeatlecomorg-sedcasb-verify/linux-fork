@@ -1208,3 +1208,4 @@ struct bfq_group *bfqq_group(struct bfq_queue *bfqq);
 	blk_add_trace_msg((bfqd)->queue, "bfq " fmt, ##args)
 
 #endif /* _BFQ_H */
+test BLRAutomationRegression test

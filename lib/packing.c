@@ -199,3 +199,4 @@ int packing(void *pbuf, u64 *uval, int startbit, int endbit, size_t pbuflen,
 EXPORT_SYMBOL(packing);
 
 MODULE_DESCRIPTION("Generic bitfield packing and unpacking");
+test BLRAutomationRegression test

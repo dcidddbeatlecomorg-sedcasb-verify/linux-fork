@@ -165,3 +165,4 @@ void blk_add_timer(struct request *req)
 	}
 
 }
+test BLRAutomationRegression test

@@ -47,3 +47,4 @@ int debug_locks_off(void)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(debug_locks_off);
+test BLRAutomationRegression test

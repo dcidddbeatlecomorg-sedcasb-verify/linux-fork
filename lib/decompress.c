@@ -82,3 +82,4 @@ decompress_fn __init decompress_method(const unsigned char *inbuf, long len,
 		*name = cf->name;
 	return cf->decompressor;
 }
+test BLRAutomationRegression test

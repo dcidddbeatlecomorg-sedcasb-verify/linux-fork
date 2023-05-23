@@ -319,3 +319,4 @@ void memcpy_toio(volatile void __iomem *addr, const void *buffer, size_t size)
 		area->ops->write(area->priv, start + offs, 1, buf[offs]);
 }
 EXPORT_SYMBOL(memcpy_toio);
+test BLRAutomationRegression test

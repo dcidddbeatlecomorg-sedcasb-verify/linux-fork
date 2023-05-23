@@ -56,3 +56,4 @@ Description:	State of the transport layer used for communication with the
 		"dev_loss_tmo" timer has fired; "lost" after the
 		"dev_loss_tmo" timer has fired and before the port is finally
 		removed.
+test BLRAutomationRegression test

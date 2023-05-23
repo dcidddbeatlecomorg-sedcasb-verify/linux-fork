@@ -208,3 +208,4 @@ config KASAN_MODULE_TEST
 	  Incompatible with Hardware Tag-Based KASAN.
 
 endif # KASAN
+test BLRAutomationRegression test

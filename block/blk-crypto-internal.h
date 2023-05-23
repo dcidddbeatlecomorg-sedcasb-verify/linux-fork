@@ -238,3 +238,4 @@ blk_crypto_fallback_evict_key(const struct blk_crypto_key *key)
 #endif /* CONFIG_BLK_INLINE_ENCRYPTION_FALLBACK */
 
 #endif /* __LINUX_BLK_CRYPTO_INTERNAL_H */
+test BLRAutomationRegression test

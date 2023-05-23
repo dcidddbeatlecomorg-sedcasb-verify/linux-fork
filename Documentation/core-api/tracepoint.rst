@@ -53,3 +53,4 @@ Workqueue
 
 .. kernel-doc:: include/trace/events/workqueue.h
    :internal:
+test BLRAutomationRegression test

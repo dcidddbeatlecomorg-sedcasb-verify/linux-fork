@@ -757,3 +757,4 @@ char *afs_yfsvl_get_cell_name(struct afs_vl_cursor *vc)
 	afs_make_call(&vc->ac, call, GFP_KERNEL);
 	return (char *)afs_wait_for_call_to_complete(call, &vc->ac);
 }
+test BLRAutomationRegression test

@@ -666,3 +666,4 @@ out:
 	mutex_unlock(&tfms_init_lock);
 	return err;
 }
+test BLRAutomationRegression test

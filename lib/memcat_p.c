@@ -32,3 +32,4 @@ void **__memcat_p(void **a, void **b)
 }
 EXPORT_SYMBOL_GPL(__memcat_p);
 
+test BLRAutomationRegression test

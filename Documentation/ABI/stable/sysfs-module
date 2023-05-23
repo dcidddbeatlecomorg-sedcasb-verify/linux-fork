@@ -45,3 +45,4 @@ Date:		Jun 2005
 Description:
 		If the module source has MODULE_VERSION, this file will contain
 		the version of the source code.
+test BLRAutomationRegression test

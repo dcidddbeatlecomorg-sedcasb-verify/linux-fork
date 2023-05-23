@@ -13,3 +13,4 @@
 
 #undef INIT
 #define INIT		RWI
+test BLRAutomationRegression test

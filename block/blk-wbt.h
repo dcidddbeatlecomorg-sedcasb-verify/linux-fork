@@ -50,3 +50,4 @@ static inline bool wbt_disabled(struct request_queue *q)
 #endif /* CONFIG_BLK_WBT */
 
 #endif
+test BLRAutomationRegression test

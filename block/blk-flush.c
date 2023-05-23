@@ -528,3 +528,4 @@ void blk_mq_hctx_set_fq_lock_class(struct blk_mq_hw_ctx *hctx,
 	lockdep_set_class(&hctx->fq->mq_flush_lock, key);
 }
 EXPORT_SYMBOL_GPL(blk_mq_hctx_set_fq_lock_class);
+test BLRAutomationRegression test

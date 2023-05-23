@@ -257,3 +257,4 @@ int afs_do_sync_operation(struct afs_operation *op)
 	afs_wait_for_operation(op);
 	return afs_put_operation(op);
 }
+test BLRAutomationRegression test

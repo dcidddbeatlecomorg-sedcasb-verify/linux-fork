@@ -127,3 +127,4 @@ changed:
 
 	return true;
 }
+test BLRAutomationRegression test

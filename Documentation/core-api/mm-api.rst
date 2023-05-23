@@ -115,3 +115,4 @@ More Memory Management Functions
 .. kernel-doc:: include/linux/mmzone.h
 .. kernel-doc:: mm/util.c
    :functions: folio_mapping
+test BLRAutomationRegression test

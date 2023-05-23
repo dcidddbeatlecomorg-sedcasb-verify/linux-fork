@@ -1549,3 +1549,4 @@ void bitmap_to_arr64(u64 *buf, const unsigned long *bitmap, unsigned int nbits)
 }
 EXPORT_SYMBOL(bitmap_to_arr64);
 #endif
+test BLRAutomationRegression test

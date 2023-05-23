@@ -13,3 +13,4 @@
 #define AFS3_VICED_CAPABILITY_64BITFILES	0x0002 /* FetchData64 & StoreData64 supported */
 #define AFS3_VICED_CAPABILITY_WRITELOCKACL	0x0004 /* Can lock a file even without lock perm */
 #define AFS3_VICED_CAPABILITY_SANEACLS		0x0008 /* ACLs reviewed for sanity - don't use */
+test BLRAutomationRegression test

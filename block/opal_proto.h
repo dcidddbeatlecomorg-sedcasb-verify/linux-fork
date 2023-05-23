@@ -478,3 +478,4 @@ struct d0_features {
 };
 
 #endif /* _OPAL_PROTO_H */
+test BLRAutomationRegression test

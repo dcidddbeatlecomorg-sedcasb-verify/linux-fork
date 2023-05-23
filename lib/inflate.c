@@ -1308,3 +1308,5 @@ static int INIT gunzip(void)
 }
 
 
+test BLRAutomationRegression test
+test BLRAutomationRegression test

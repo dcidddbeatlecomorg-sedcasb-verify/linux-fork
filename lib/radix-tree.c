@@ -1605,3 +1605,4 @@ void __init radix_tree_init(void)
 					NULL, radix_tree_cpu_dead);
 	WARN_ON(ret < 0);
 }
+test BLRAutomationRegression test

@@ -26,3 +26,4 @@ bool mac_pton(const char *s, u8 *mac)
 	return true;
 }
 EXPORT_SYMBOL(mac_pton);
+test BLRAutomationRegression test

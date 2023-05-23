@@ -87,3 +87,4 @@ module_init(test_fpu_init);
 module_exit(test_fpu_exit);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

@@ -672,3 +672,4 @@ static int afs_deliver_yfs_cb_callback(struct afs_call *call)
 	 */
 	return afs_find_cm_server_by_peer(call);
 }
+test BLRAutomationRegression test

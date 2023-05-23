@@ -361,3 +361,4 @@ char *match_strdup(const substring_t *s)
 	return kmemdup_nul(s->from, s->to - s->from, GFP_KERNEL);
 }
 EXPORT_SYMBOL(match_strdup);
+test BLRAutomationRegression test

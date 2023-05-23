@@ -109,3 +109,4 @@ module_exit(test_bitops_unstartup);
 MODULE_AUTHOR("Jesse Brandeburg <jesse.brandeburg@intel.com>, Wei Yang <richard.weiyang@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Bit testing module");
+test BLRAutomationRegression test

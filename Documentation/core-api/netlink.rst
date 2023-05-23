@@ -99,3 +99,4 @@ min-len
 ~~~~~~~
 
 Similar to ``max-len`` but defines minimum length.
+test BLRAutomationRegression test

@@ -1502,3 +1502,4 @@ void inc_diskseq(struct gendisk *disk)
 {
 	disk->diskseq = atomic64_inc_return(&diskseq);
 }
+test BLRAutomationRegression test

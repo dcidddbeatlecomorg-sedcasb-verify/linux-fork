@@ -125,3 +125,4 @@ Description:    human-readable list of cpuX's hardware threads within the same
                 drawer_id.
                 The format is like 0-3, 8-11, 14,17. it's only used on s390.
 Values:         decimal list.
+test BLRAutomationRegression test

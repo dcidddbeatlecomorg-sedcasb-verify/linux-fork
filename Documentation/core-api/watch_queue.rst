@@ -341,3 +341,4 @@ The notifications can then be consumed by something like the following::
 			}
 		}
 	}
+test BLRAutomationRegression test

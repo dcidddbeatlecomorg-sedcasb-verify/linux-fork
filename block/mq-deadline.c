@@ -1244,3 +1244,4 @@ module_exit(deadline_exit);
 MODULE_AUTHOR("Jens Axboe, Damien Le Moal and Bart Van Assche");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("MQ deadline IO scheduler");
+test BLRAutomationRegression test

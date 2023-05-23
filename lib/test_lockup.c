@@ -618,3 +618,4 @@ module_init(test_lockup_init);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Konstantin Khlebnikov <khlebnikov@yandex-team.ru>");
 MODULE_DESCRIPTION("Test module to generate lockups");
+test BLRAutomationRegression test

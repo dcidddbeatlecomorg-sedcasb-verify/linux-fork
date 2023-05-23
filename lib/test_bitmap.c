@@ -1242,3 +1242,4 @@ static void __init selftest(void)
 KSTM_MODULE_LOADERS(test_bitmap);
 MODULE_AUTHOR("david decotigny <david.decotigny@googlers.com>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

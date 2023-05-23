@@ -626,3 +626,4 @@ void disk_clear_zone_settings(struct gendisk *disk)
 
 	blk_mq_unfreeze_queue(q);
 }
+test BLRAutomationRegression test

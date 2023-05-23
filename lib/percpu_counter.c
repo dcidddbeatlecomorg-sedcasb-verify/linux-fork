@@ -268,3 +268,4 @@ static int __init percpu_counter_startup(void)
 	return 0;
 }
 module_init(percpu_counter_startup);
+test BLRAutomationRegression test

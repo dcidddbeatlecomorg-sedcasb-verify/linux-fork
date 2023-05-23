@@ -226,3 +226,4 @@ void afs_break_callbacks(struct afs_server *server, size_t count,
 	rcu_read_unlock();
 	return;
 }
+test BLRAutomationRegression test

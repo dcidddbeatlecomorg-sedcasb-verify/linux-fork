@@ -279,3 +279,4 @@ bool rcuref_put_slowpath(rcuref_t *ref)
 	return false;
 }
 EXPORT_SYMBOL_GPL(rcuref_put_slowpath);
+test BLRAutomationRegression test

@@ -875,3 +875,4 @@ static void afs_fl_release_private(struct file_lock *fl)
 	_debug("state %u for %p", vnode->lock_state, vnode);
 	spin_unlock(&vnode->lock);
 }
+test BLRAutomationRegression test

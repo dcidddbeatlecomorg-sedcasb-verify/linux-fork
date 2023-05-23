@@ -713,3 +713,4 @@ static __init int blkdev_init(void)
 				BIOSET_NEED_BVECS|BIOSET_PERCPU_CACHE);
 }
 module_init(blkdev_init);
+test BLRAutomationRegression test

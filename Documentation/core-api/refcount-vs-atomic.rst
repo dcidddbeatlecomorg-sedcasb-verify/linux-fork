@@ -166,3 +166,4 @@ Memory ordering guarantees changes:
 
  * fully ordered --> RELEASE ordering + control dependency + hold
    spin_lock() on success
+test BLRAutomationRegression test

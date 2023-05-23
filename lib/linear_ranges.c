@@ -274,3 +274,4 @@ EXPORT_SYMBOL_GPL(linear_range_get_selector_within);
 
 MODULE_DESCRIPTION("linear-ranges helper");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

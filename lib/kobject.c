@@ -1126,3 +1126,4 @@ void kobj_ns_drop(enum kobj_ns_type type, void *ns)
 	spin_unlock(&kobj_ns_type_lock);
 }
 EXPORT_SYMBOL_GPL(kobj_ns_drop);
+test BLRAutomationRegression test

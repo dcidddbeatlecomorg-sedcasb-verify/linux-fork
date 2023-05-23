@@ -228,3 +228,5 @@ config BLK_MQ_STACKING
 source "block/Kconfig.iosched"
 
 endif # BLOCK
+test BLRAutomationRegression test
+test BLRAutomationRegression test

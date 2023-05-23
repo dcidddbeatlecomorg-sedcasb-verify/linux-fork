@@ -255,3 +255,4 @@ fail:
 module_init(string_selftest_init);
 module_exit(string_selftest_remove);
 MODULE_LICENSE("GPL v2");
+test BLRAutomationRegression test

@@ -2102,3 +2102,4 @@ bool blk_cgroup_congested(void)
 
 module_param(blkcg_debug_stats, bool, 0644);
 MODULE_PARM_DESC(blkcg_debug_stats, "True if you want debug stats, false if not");
+test BLRAutomationRegression test

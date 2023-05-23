@@ -2041,3 +2041,4 @@ static void afs_dir_invalidate_folio(struct folio *folio, size_t offset,
 	if (offset == 0 && length == folio_size(folio))
 		folio_detach_private(folio);
 }
+test BLRAutomationRegression test

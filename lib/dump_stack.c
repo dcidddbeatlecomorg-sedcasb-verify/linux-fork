@@ -113,3 +113,4 @@ asmlinkage __visible void dump_stack(void)
 	dump_stack_lvl(KERN_DEFAULT);
 }
 EXPORT_SYMBOL(dump_stack);
+test BLRAutomationRegression test

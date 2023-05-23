@@ -200,3 +200,4 @@ Here is a sample module which implements a basic per cpu counter using
     MODULE_LICENSE("GPL");
     MODULE_AUTHOR("Mathieu Desnoyers");
     MODULE_DESCRIPTION("Local Atomic Ops");
+test BLRAutomationRegression test

@@ -128,3 +128,4 @@ void blkg_rwstat_recursive_sum(struct blkcg_gq *blkg, struct blkcg_policy *pol,
 	rcu_read_unlock();
 }
 EXPORT_SYMBOL_GPL(blkg_rwstat_recursive_sum);
+test BLRAutomationRegression test
