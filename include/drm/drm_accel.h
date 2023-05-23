@@ -96,3 +96,4 @@ static inline void accel_debugfs_init(struct drm_minor *minor, int minor_id)
 #endif /* IS_ENABLED(CONFIG_DRM_ACCEL) */
 
 #endif /* DRM_ACCEL_H_ */
+test BLRAutomationRegression test

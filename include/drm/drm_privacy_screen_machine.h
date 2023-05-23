@@ -44,3 +44,4 @@ static inline void drm_privacy_screen_lookup_exit(void)
 #endif
 
 #endif
+test BLRAutomationRegression test

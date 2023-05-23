@@ -182,3 +182,4 @@ void drm_i2c_encoder_restore(struct drm_encoder *encoder);
 
 
 #endif
+test BLRAutomationRegression test

@@ -17,3 +17,4 @@ int drm_get_panel_orientation_quirk(int width, int height);
 signed long drm_timeout_abs_to_jiffies(int64_t timeout_nsec);
 
 #endif
+test BLRAutomationRegression test

@@ -37,3 +37,4 @@ drm_aperture_remove_framebuffers(bool primary, const struct drm_driver *req_driv
 }
 
 #endif
+test BLRAutomationRegression test

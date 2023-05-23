@@ -279,3 +279,4 @@ bool drm_crtc_vblank_helper_get_vblank_timestamp(struct drm_crtc *crtc,
 						 bool in_vblank_irq);
 
 #endif
+test BLRAutomationRegression test

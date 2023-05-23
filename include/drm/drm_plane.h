@@ -947,3 +947,4 @@ int drm_plane_create_scaling_filter_property(struct drm_plane *plane,
 					     unsigned int supported_filters);
 
 #endif
+test BLRAutomationRegression test

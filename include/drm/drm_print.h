@@ -635,3 +635,4 @@ void __drm_err(const char *format, ...);
 		      "drm_WARN_ON_ONCE(" __stringify(x) ")")
 
 #endif /* DRM_PRINT_H_ */
+test BLRAutomationRegression test

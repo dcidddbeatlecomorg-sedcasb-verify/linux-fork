@@ -591,3 +591,4 @@ static inline bool drm_firmware_drivers_only(void)
 }
 
 #endif
+test BLRAutomationRegression test

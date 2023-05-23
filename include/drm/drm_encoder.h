@@ -330,3 +330,4 @@ void drm_encoder_cleanup(struct drm_encoder *encoder);
 	list_for_each_entry(encoder, &(dev)->mode_config.encoder_list, head)
 
 #endif
+test BLRAutomationRegression test

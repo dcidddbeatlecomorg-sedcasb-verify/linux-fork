@@ -333,3 +333,4 @@ struct gud_state_req {
 #define GUD_REQ_SET_DISPLAY_ENABLE			0x64
 
 #endif
+test BLRAutomationRegression test

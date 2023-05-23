@@ -82,3 +82,4 @@ bool drm_atomic_helper_damage_merged(const struct drm_plane_state *old_state,
 				     struct drm_rect *rect);
 
 #endif
+test BLRAutomationRegression test

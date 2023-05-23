@@ -297,3 +297,4 @@ int drm_gem_shmem_dumb_create(struct drm_file *file, struct drm_device *dev,
 	.dumb_create		= drm_gem_shmem_dumb_create
 
 #endif /* __DRM_GEM_SHMEM_HELPER_H__ */
+test BLRAutomationRegression test

@@ -121,3 +121,4 @@ enum drm_color_lut_tests {
 
 int drm_color_lut_check(const struct drm_property_blob *lut, u32 tests);
 #endif
+test BLRAutomationRegression test

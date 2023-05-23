@@ -621,3 +621,4 @@ const u8 *drm_find_edid_extension(const struct drm_edid *drm_edid,
 				  int ext_id, int *ext_index);
 
 #endif /* __DRM_EDID_H__ */
+test BLRAutomationRegression test

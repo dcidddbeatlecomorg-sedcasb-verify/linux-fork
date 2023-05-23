@@ -950,3 +950,4 @@ static inline struct drm_bridge *drmm_of_get_bridge(struct drm_device *drm,
 #endif
 
 #endif
+test BLRAutomationRegression test

@@ -245,3 +245,4 @@ static inline int drm_vma_node_verify_access(struct drm_vma_offset_node *node,
 }
 
 #endif /* __DRM_VMA_MANAGER_H__ */
+test BLRAutomationRegression test

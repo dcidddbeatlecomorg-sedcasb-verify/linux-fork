@@ -93,3 +93,4 @@ void drm_privacy_screen_unregister(struct drm_privacy_screen *priv);
 void drm_privacy_screen_call_notifier_chain(struct drm_privacy_screen *priv);
 
 #endif
+test BLRAutomationRegression test

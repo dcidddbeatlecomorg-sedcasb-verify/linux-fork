@@ -69,3 +69,4 @@ enum amd_asic_type {
 extern const char *amdgpu_asic_name[];
 
 #endif /*__AMD_ASIC_TYPE_H__ */
+test BLRAutomationRegression test

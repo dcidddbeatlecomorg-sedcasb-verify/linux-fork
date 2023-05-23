@@ -120,3 +120,4 @@ static inline struct spsc_node *spsc_queue_pop(struct spsc_queue *queue)
 
 
 #endif /* DRM_SCHEDULER_SPSC_QUEUE_H_ */
+test BLRAutomationRegression test

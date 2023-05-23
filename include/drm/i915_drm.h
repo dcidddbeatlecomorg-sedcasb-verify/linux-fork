@@ -100,3 +100,4 @@ extern struct resource intel_graphics_stolen_res;
 #define   INTEL_BSM_MASK	(-(1u << 20))
 
 #endif				/* _I915_DRM_H_ */
+test BLRAutomationRegression test

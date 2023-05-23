@@ -111,3 +111,4 @@ int drm_prime_sg_to_dma_addr_array(struct sg_table *sgt, dma_addr_t *addrs,
 				   int max_pages);
 
 #endif /* __DRM_PRIME_H__ */
+test BLRAutomationRegression test

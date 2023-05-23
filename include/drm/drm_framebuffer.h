@@ -336,3 +336,4 @@ struct drm_afbc_framebuffer {
 #define fb_to_afbc_fb(x) container_of(x, struct drm_afbc_framebuffer, base)
 
 #endif
+test BLRAutomationRegression test

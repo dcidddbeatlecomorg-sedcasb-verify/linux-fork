@@ -45,3 +45,4 @@ struct i915_pxp_component {
 };
 
 #endif /* _I915_TEE_PXP_INTERFACE_H_ */
+test BLRAutomationRegression test

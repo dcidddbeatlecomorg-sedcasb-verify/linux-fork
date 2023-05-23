@@ -106,3 +106,4 @@ drm_suballoc_dump_debug_info(struct drm_suballoc_manager *sa_manager,
 #endif
 
 #endif /* _DRM_SUBALLOC_H_ */
+test BLRAutomationRegression test

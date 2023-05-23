@@ -81,3 +81,4 @@ static inline bool drm_can_sleep(void)
 }
 
 #endif
+test BLRAutomationRegression test

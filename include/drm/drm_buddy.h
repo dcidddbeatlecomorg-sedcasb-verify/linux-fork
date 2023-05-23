@@ -157,3 +157,4 @@ void drm_buddy_block_print(struct drm_buddy *mm,
 			   struct drm_printer *p);
 
 #endif
+test BLRAutomationRegression test

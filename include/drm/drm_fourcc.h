@@ -321,3 +321,4 @@ uint64_t drm_format_info_min_pitch(const struct drm_format_info *info,
 				   int plane, unsigned int buffer_width);
 
 #endif /* __DRM_FOURCC_H__ */
+test BLRAutomationRegression test

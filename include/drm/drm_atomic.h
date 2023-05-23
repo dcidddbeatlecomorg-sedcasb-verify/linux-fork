@@ -1148,3 +1148,4 @@ drm_atomic_get_new_bridge_state(const struct drm_atomic_state *state,
 				struct drm_bridge *bridge);
 
 #endif /* DRM_ATOMIC_H_ */
+test BLRAutomationRegression test

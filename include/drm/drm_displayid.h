@@ -168,3 +168,4 @@ u8 displayid_version(const struct displayid_iter *iter);
 u8 displayid_primary_use(const struct displayid_iter *iter);
 
 #endif
+test BLRAutomationRegression test

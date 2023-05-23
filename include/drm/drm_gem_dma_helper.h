@@ -277,3 +277,4 @@ unsigned long drm_gem_dma_get_unmapped_area(struct file *filp,
 	}
 
 #endif /* __DRM_GEM_DMA_HELPER_H__ */
+test BLRAutomationRegression test

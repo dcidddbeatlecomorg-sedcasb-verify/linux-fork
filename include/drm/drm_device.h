@@ -394,3 +394,4 @@ struct drm_device {
 };
 
 #endif
+test BLRAutomationRegression test

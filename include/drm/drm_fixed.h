@@ -210,3 +210,4 @@ static inline s64 drm_fixp_exp(s64 x)
 }
 
 #endif
+test BLRAutomationRegression test

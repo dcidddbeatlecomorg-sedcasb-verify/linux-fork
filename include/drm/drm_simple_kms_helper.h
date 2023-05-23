@@ -287,3 +287,4 @@ void *__drmm_simple_encoder_alloc(struct drm_device *dev, size_t size,
 					     encoder_type))
 
 #endif /* __LINUX_DRM_SIMPLE_KMS_HELPER_H */
+test BLRAutomationRegression test

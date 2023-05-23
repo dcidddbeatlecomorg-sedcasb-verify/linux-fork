@@ -190,3 +190,4 @@ static inline int drm_of_encoder_active_port_id(struct device_node *node,
 }
 
 #endif /* __DRM_OF_H__ */
+test BLRAutomationRegression test

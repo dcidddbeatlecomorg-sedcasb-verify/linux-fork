@@ -69,3 +69,4 @@ bool drm_vblank_work_cancel_sync(struct drm_vblank_work *work);
 void drm_vblank_work_flush(struct drm_vblank_work *work);
 
 #endif /* !_DRM_VBLANK_WORK_H_ */
+test BLRAutomationRegression test

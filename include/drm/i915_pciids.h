@@ -753,3 +753,4 @@
 	INTEL_MTL_P_IDS(info)
 
 #endif /* _I915_PCIIDS_H */
+test BLRAutomationRegression test

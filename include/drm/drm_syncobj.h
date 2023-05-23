@@ -130,3 +130,4 @@ int drm_syncobj_get_handle(struct drm_file *file_private,
 int drm_syncobj_get_fd(struct drm_syncobj *syncobj, int *p_fd);
 
 #endif
+test BLRAutomationRegression test

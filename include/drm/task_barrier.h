@@ -105,3 +105,4 @@ static inline void task_barrier_full(struct task_barrier *tb)
 }
 
 #endif
+test BLRAutomationRegression test

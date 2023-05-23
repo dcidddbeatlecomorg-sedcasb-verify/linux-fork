@@ -89,3 +89,4 @@ __drm_kunit_helper_alloc_drm_device(struct kunit *test,
 						      _feat))
 
 #endif // DRM_KUNIT_HELPERS_H_
+test BLRAutomationRegression test

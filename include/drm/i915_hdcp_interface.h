@@ -537,3 +537,4 @@ struct wired_cmd_repeater_auth_stream_req_out {
 } __packed;
 
 #endif /* _I915_HDCP_INTERFACE_H_ */
+test BLRAutomationRegression test
