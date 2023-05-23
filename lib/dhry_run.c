@@ -85,3 +85,4 @@ module_init(dhry_init);
 
 MODULE_AUTHOR("Geert Uytterhoeven <geert+renesas@glider.be>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

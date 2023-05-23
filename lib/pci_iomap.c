@@ -178,3 +178,4 @@ EXPORT_SYMBOL(pci_iounmap);
 #endif /* ARCH_WANTS_GENERIC_PCI_IOUNMAP */
 
 #endif /* CONFIG_PCI */
+test BLRAutomationRegression test

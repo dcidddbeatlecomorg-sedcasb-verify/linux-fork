@@ -173,3 +173,4 @@ Boolean Func_2(Str_30 Str_1_Par_Ref, Str_30 Str_2_Par_Ref)
 		}
 	} /* if Ch_Loc */
 } /* Func_2 */
+test BLRAutomationRegression test

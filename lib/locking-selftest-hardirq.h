@@ -8,3 +8,4 @@
 #define IRQ_DISABLE		HARDIRQ_DISABLE
 #define IRQ_ENTER		HARDIRQ_ENTER
 #define IRQ_EXIT		HARDIRQ_EXIT
+test BLRAutomationRegression test

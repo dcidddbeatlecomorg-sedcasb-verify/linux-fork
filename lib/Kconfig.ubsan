@@ -148,3 +148,4 @@ config TEST_UBSAN
 	  It triggers various undefined behavior, and detect it.
 
 endif	# if UBSAN
+test BLRAutomationRegression test

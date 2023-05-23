@@ -239,3 +239,4 @@ static int __init init_error_injection(void)
 	return 0;
 }
 late_initcall(init_error_injection);
+test BLRAutomationRegression test

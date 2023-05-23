@@ -315,3 +315,4 @@ static struct kunit_suite hashtable_test_module = {
 kunit_test_suites(&hashtable_test_module);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

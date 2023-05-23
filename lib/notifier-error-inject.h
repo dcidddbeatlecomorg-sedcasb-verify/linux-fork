@@ -23,3 +23,4 @@ extern struct dentry *notifier_err_inject_dir;
 extern struct dentry *notifier_err_inject_init(const char *name,
 		struct dentry *parent, struct notifier_err_inject *err_inject,
 		int priority);
+test BLRAutomationRegression test

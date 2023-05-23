@@ -1147,3 +1147,4 @@ static struct kunit_suite overflow_test_suite = {
 kunit_test_suite(overflow_test_suite);
 
 MODULE_LICENSE("Dual MIT/GPL");
+test BLRAutomationRegression test

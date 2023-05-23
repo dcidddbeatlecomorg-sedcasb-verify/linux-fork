@@ -205,3 +205,4 @@ int errseq_check_and_advance(errseq_t *eseq, errseq_t *since)
 	return err;
 }
 EXPORT_SYMBOL(errseq_check_and_advance);
+test BLRAutomationRegression test

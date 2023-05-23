@@ -17,3 +17,4 @@ void memregion_free(int id)
 	ida_free(&memregion_ids, id);
 }
 EXPORT_SYMBOL(memregion_free);
+test BLRAutomationRegression test

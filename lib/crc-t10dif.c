@@ -129,3 +129,4 @@ module_param_call(transform, NULL, crc_t10dif_transform_show, NULL, 0444);
 MODULE_DESCRIPTION("T10 DIF CRC calculation (library API)");
 MODULE_LICENSE("GPL");
 MODULE_SOFTDEP("pre: crct10dif");
+test BLRAutomationRegression test

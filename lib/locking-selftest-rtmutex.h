@@ -10,3 +10,4 @@
 
 #undef INIT
 #define INIT		RTI
+test BLRAutomationRegression test

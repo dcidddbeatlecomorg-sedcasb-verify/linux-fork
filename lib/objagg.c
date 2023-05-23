@@ -1049,3 +1049,4 @@ EXPORT_SYMBOL(objagg_hints_stats_get);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Jiri Pirko <jiri@mellanox.com>");
 MODULE_DESCRIPTION("Object aggregation manager");
+test BLRAutomationRegression test

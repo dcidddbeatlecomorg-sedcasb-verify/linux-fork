@@ -235,3 +235,4 @@ void __genradix_free(struct __genradix *radix)
 			      genradix_root_to_depth(r));
 }
 EXPORT_SYMBOL(__genradix_free);
+test BLRAutomationRegression test

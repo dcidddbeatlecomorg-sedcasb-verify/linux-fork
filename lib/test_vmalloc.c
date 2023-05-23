@@ -610,3 +610,4 @@ module_exit(vmalloc_test_exit)
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Uladzislau Rezki");
 MODULE_DESCRIPTION("vmalloc test module");
+test BLRAutomationRegression test

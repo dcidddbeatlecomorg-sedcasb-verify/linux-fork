@@ -75,3 +75,4 @@ enum {
 };
 
 #endif /* _LIB_TEST_HMM_UAPI_H */
+test BLRAutomationRegression test

@@ -455,3 +455,4 @@ void __ubsan_handle_alignment_assumption(void *_data, unsigned long ptr,
 EXPORT_SYMBOL(__ubsan_handle_alignment_assumption);
 
 #endif /* !CONFIG_UBSAN_TRAP */
+test BLRAutomationRegression test

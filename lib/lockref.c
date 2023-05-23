@@ -191,3 +191,4 @@ int lockref_get_not_dead(struct lockref *lockref)
 	return retval;
 }
 EXPORT_SYMBOL(lockref_get_not_dead);
+test BLRAutomationRegression test

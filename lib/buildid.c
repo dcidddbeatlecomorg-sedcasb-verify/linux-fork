@@ -189,3 +189,4 @@ void __init init_vmlinux_build_id(void)
 	build_id_parse_buf(&__start_notes, vmlinux_build_id, size);
 }
 #endif
+test BLRAutomationRegression test

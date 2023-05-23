@@ -49,3 +49,4 @@ module_exit(test_debug_virtual_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Test module for CONFIG_DEBUG_VIRTUAL");
+test BLRAutomationRegression test

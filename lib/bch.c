@@ -1444,3 +1444,4 @@ EXPORT_SYMBOL_GPL(bch_free);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ivan Djelic <ivan.djelic@parrot.com>");
 MODULE_DESCRIPTION("Binary BCH encoder/decoder");
+test BLRAutomationRegression test

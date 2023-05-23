@@ -406,3 +406,4 @@ module_exit(rbtree_test_exit)
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Michel Lespinasse");
 MODULE_DESCRIPTION("Red Black Tree test");
+test BLRAutomationRegression test

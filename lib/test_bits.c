@@ -73,3 +73,4 @@ static struct kunit_suite bits_test_suite = {
 kunit_test_suite(bits_test_suite);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

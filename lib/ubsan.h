@@ -125,3 +125,4 @@ typedef u64 u_max;
 #endif
 
 #endif
+test BLRAutomationRegression test

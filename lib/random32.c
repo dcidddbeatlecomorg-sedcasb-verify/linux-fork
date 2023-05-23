@@ -298,3 +298,4 @@ static int __init prandom_state_selftest(void)
 }
 core_initcall(prandom_state_selftest);
 #endif
+test BLRAutomationRegression test

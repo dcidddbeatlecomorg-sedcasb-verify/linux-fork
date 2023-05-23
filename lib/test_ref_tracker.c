@@ -113,3 +113,4 @@ module_init(test_ref_tracker_init);
 module_exit(test_ref_tracker_exit);
 
 MODULE_LICENSE("GPL v2");
+test BLRAutomationRegression test

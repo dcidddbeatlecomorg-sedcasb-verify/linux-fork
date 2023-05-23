@@ -61,3 +61,4 @@ EXPORT_SYMBOL(__ctzdi2);
 #else
 #error BITS_PER_LONG not 32 or 64
 #endif
+test BLRAutomationRegression test

@@ -72,3 +72,4 @@ EXPORT_SYMBOL(crc7_be);
 
 MODULE_DESCRIPTION("CRC7 calculations");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

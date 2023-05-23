@@ -80,3 +80,4 @@ int _atomic_dec_and_raw_lock_irqsave(atomic_t *atomic, raw_spinlock_t *lock,
 	return 0;
 }
 EXPORT_SYMBOL(_atomic_dec_and_raw_lock_irqsave);
+test BLRAutomationRegression test

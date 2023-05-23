@@ -175,3 +175,4 @@ module_init(ida_checks);
 module_exit(ida_exit);
 MODULE_AUTHOR("Matthew Wilcox <willy@infradead.org>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

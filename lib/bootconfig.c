@@ -983,3 +983,4 @@ int __init xbc_init(const char *data, size_t size, const char **emsg, int *epos)
 
 	return ret;
 }
+test BLRAutomationRegression test

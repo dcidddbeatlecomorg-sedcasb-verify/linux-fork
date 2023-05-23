@@ -61,3 +61,4 @@ config KMSAN_KUNIT_TEST
 	  if you are unsure.
 
 endif
+test BLRAutomationRegression test

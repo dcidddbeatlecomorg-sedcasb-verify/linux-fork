@@ -97,3 +97,4 @@ config KFENCE_KUNIT_TEST
 	  if you are unsure.
 
 endif # KFENCE
+test BLRAutomationRegression test

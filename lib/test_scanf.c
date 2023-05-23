@@ -811,3 +811,4 @@ static void __init selftest(void)
 KSTM_MODULE_LOADERS(test_scanf);
 MODULE_AUTHOR("Richard Fitzgerald <rf@opensource.cirrus.com>");
 MODULE_LICENSE("GPL v2");
+test BLRAutomationRegression test

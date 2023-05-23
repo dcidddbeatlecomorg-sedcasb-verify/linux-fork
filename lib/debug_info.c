@@ -25,3 +25,4 @@
 #include <net/addrconf.h>
 #include <net/sock.h>
 #include <net/tcp.h>
+test BLRAutomationRegression test

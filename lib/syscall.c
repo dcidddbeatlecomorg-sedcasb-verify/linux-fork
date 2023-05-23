@@ -86,3 +86,4 @@ int task_current_syscall(struct task_struct *target, struct syscall_info *info)
 
 	return 0;
 }
+test BLRAutomationRegression test

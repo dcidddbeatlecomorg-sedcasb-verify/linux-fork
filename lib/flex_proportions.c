@@ -276,3 +276,4 @@ void __fprop_add_percpu_max(struct fprop_global *p,
 
 	__fprop_add_percpu(p, pl, nr);
 }
+test BLRAutomationRegression test

@@ -337,3 +337,4 @@ err_add:
 	return rc;
 }
 EXPORT_SYMBOL(irq_cpu_rmap_add);
+test BLRAutomationRegression test

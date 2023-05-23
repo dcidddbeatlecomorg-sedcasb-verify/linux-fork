@@ -93,3 +93,4 @@ int main(int argc, char *argv[])
 	print_crc64_tables();
 	return 0;
 }
+test BLRAutomationRegression test

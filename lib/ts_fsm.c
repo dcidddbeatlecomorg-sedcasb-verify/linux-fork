@@ -335,3 +335,4 @@ MODULE_LICENSE("GPL");
 
 module_init(init_fsm);
 module_exit(exit_fsm);
+test BLRAutomationRegression test

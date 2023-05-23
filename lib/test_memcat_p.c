@@ -113,3 +113,4 @@ module_init(test_memcat_p_init);
 module_exit(test_memcat_p_exit);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

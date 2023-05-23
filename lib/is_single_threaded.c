@@ -52,3 +52,4 @@ found:
 
 	return ret;
 }
+test BLRAutomationRegression test

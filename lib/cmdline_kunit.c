@@ -154,3 +154,4 @@ static struct kunit_suite cmdline_test_suite = {
 kunit_test_suite(cmdline_test_suite);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

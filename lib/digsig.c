@@ -277,3 +277,4 @@ module_init(digsig_init);
 module_exit(digsig_cleanup);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

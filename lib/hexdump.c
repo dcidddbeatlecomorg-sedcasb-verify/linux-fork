@@ -293,3 +293,4 @@ void print_hex_dump(const char *level, const char *prefix_str, int prefix_type,
 EXPORT_SYMBOL(print_hex_dump);
 
 #endif /* defined(CONFIG_PRINTK) */
+test BLRAutomationRegression test

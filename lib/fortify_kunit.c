@@ -329,3 +329,4 @@ static struct kunit_suite fortify_test_suite = {
 kunit_test_suite(fortify_test_suite);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

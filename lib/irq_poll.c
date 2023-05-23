@@ -217,3 +217,4 @@ static __init int irq_poll_setup(void)
 	return 0;
 }
 subsys_initcall(irq_poll_setup);
+test BLRAutomationRegression test

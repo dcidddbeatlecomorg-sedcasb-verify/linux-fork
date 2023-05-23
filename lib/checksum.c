@@ -171,3 +171,4 @@ __wsum csum_tcpudp_nofold(__be32 saddr, __be32 daddr,
 }
 EXPORT_SYMBOL(csum_tcpudp_nofold);
 #endif
+test BLRAutomationRegression test

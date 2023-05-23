@@ -620,3 +620,4 @@ EXPORT_SYMBOL(lc_seq_dump_details);
 EXPORT_SYMBOL(lc_try_lock);
 EXPORT_SYMBOL(lc_is_used);
 EXPORT_SYMBOL(lc_get_cumulative);
+test BLRAutomationRegression test

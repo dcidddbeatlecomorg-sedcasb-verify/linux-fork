@@ -1557,3 +1557,4 @@ static void __exit hmm_dmirror_exit(void)
 module_init(hmm_dmirror_init);
 module_exit(hmm_dmirror_exit);
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

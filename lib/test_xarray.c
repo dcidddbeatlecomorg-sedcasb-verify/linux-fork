@@ -1834,3 +1834,4 @@ module_init(xarray_checks);
 module_exit(xarray_exit);
 MODULE_AUTHOR("Matthew Wilcox <willy@infradead.org>");
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

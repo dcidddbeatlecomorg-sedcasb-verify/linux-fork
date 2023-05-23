@@ -66,3 +66,4 @@ unsigned long __sw_hweight64(__u64 w)
 #endif
 }
 EXPORT_SYMBOL(__sw_hweight64);
+test BLRAutomationRegression test

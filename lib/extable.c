@@ -116,3 +116,4 @@ search_extable(const struct exception_table_entry *base,
 	return bsearch(&value, base, num,
 		       sizeof(struct exception_table_entry), cmp_ex_search);
 }
+test BLRAutomationRegression test

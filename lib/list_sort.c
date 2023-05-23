@@ -251,3 +251,4 @@ void list_sort(void *priv, struct list_head *head, list_cmp_func_t cmp)
 	merge_final(priv, cmp, head, pending, list);
 }
 EXPORT_SYMBOL(list_sort);
+test BLRAutomationRegression test

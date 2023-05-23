@@ -437,3 +437,4 @@ static int __init test_meminit_init(void)
 module_init(test_meminit_init);
 
 MODULE_LICENSE("GPL");
+test BLRAutomationRegression test

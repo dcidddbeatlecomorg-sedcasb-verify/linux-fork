@@ -430,3 +430,24 @@ $(obj)/$(TEST_FORTIFY_LOG): $(addprefix $(obj)/, $(TEST_FORTIFY_LOGS)) FORCE
 ifeq ($(CONFIG_FORTIFY_SOURCE),y)
 $(obj)/string.o: $(obj)/$(TEST_FORTIFY_LOG)
 endif
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
+test BLRAutomationRegression test
