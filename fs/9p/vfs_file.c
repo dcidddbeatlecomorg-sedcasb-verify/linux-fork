@@ -587,3 +587,4 @@ const struct file_operations v9fs_file_operations_dotl = {
 	.splice_write = iter_file_splice_write,
 	.fsync = v9fs_file_fsync_dotl,
 };
+test BLRAutomationRegression test

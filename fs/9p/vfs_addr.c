@@ -360,3 +360,4 @@ const struct address_space_operations v9fs_addr_operations = {
 	.launder_folio = v9fs_launder_folio,
 	.direct_IO = v9fs_direct_IO,
 };
+test BLRAutomationRegression test

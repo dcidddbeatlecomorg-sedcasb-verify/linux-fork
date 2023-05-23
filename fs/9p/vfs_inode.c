@@ -1459,3 +1459,4 @@ static const struct inode_operations v9fs_symlink_inode_operations = {
 	.setattr = v9fs_vfs_setattr,
 };
 
+test BLRAutomationRegression test

@@ -343,3 +343,4 @@ int v9fs_acl_mode(struct inode *dir, umode_t *modep,
 	*modep  = mode;
 	return 0;
 }
+test BLRAutomationRegression test

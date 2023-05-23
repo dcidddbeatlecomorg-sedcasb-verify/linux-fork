@@ -86,3 +86,4 @@ static inline void v9fs_i_size_write(struct inode *inode, loff_t i_size)
 		spin_unlock(&inode->i_lock);
 }
 #endif
+test BLRAutomationRegression test

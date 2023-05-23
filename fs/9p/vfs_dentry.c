@@ -105,3 +105,4 @@ const struct dentry_operations v9fs_dentry_operations = {
 	.d_delete = always_delete_dentry,
 	.d_release = v9fs_dentry_release,
 };
+test BLRAutomationRegression test

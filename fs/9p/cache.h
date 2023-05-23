@@ -24,3 +24,4 @@ static inline void v9fs_cache_inode_get_cookie(struct inode *inode)
 
 #endif /* CONFIG_9P_FSCACHE */
 #endif /* _9P_CACHE_H */
+test BLRAutomationRegression test

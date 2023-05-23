@@ -254,3 +254,4 @@ v9fs_get_new_inode_from_fid(struct v9fs_session_info *v9ses, struct p9_fid *fid,
 }
 
 #endif
+test BLRAutomationRegression test

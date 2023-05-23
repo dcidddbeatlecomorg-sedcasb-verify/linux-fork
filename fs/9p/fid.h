@@ -62,3 +62,4 @@ static inline void v9fs_fid_add_modes(struct p9_fid *fid, int s_flags,
 	}
 }
 #endif
+test BLRAutomationRegression test

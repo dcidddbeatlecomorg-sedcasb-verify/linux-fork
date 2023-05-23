@@ -190,3 +190,4 @@ const struct xattr_handler *v9fs_xattr_handlers[] = {
 #endif
 	NULL
 };
+test BLRAutomationRegression test
