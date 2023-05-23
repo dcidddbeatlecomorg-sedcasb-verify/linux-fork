@@ -11,3 +11,4 @@ Contact:	Luiz Sampaio <sampaio.ime@gmail.com>
 Description:	write the contents to the offset register of the DS2438
 		see Documentation/w1/slaves/w1_ds2438.rst for detailed information
 Users:		any user space application which wants to communicate with DS2438
+test BLRAutomationRegression test

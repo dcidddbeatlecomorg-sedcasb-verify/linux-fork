@@ -133,3 +133,4 @@ Description:	If running under Xen:
 		otherwise.  This flag is now exposed as "initdomain" in
 		addition to the "privileged" flag; all other possible flags
 		are accessible as "unknownXX".
+test BLRAutomationRegression test

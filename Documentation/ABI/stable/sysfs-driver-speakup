@@ -393,3 +393,4 @@ Contact:	speakup@linux-speakup.org
 Description:	Gets or sets the volume of the speech synthesizer. Range is 0-9,
 		with zero being the softest, and nine being the loudest.
 
+test BLRAutomationRegression test

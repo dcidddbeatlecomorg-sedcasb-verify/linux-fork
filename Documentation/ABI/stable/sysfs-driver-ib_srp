@@ -190,3 +190,4 @@ Description:	Number of times the initiator had to wait before sending a
 		request to the target because it ran out of credits. For more
 		information see also the SRP credit algorithm in the SRP
 		specification.
+test BLRAutomationRegression test

@@ -30,3 +30,4 @@ Contact:	Greg Kroah-Hartman <gregkh@linuxfoundation.org>
 Description:
 		Major and minor numbers of the character device corresponding
 		to the device (in <major>:<minor> format).
+test BLRAutomationRegression test

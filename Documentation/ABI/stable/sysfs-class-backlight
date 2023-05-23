@@ -55,3 +55,4 @@ Description:
 		backlight state. Platform interfaces are mostly a
 		holdover from pre-standardisation of firmware
 		interfaces.
+test BLRAutomationRegression test

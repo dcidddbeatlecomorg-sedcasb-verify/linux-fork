@@ -8,3 +8,4 @@ Description:
 	that Linux supports.  Please see the architecture-specific
 	documentation for details on the syscall numbers that are to be
 	mapped to each syscall.
+test BLRAutomationRegression test

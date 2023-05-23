@@ -208,3 +208,4 @@ Description:	produces output in compact hex representation for PCR
 
 		  cat /sys/class/tpm/tpm0/pcr-sha256/7
 		  2ED93F199692DC6788EFA6A1FE74514AB9760B2A6CEEAEF6C808C13E4ABB0D42
+test BLRAutomationRegression test

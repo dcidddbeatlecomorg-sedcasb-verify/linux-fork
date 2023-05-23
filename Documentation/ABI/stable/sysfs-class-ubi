@@ -219,3 +219,4 @@ Description:
 		Logical eraseblock size of this volume. Equivalent to logical
 		eraseblock size of the device aligned on the volume alignment
 		value.
+test BLRAutomationRegression test

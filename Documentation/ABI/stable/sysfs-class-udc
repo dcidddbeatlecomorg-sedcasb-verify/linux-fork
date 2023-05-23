@@ -91,3 +91,4 @@ Contact:	Felipe Balbi <balbi@kernel.org>
 Description:
 		Prints out name of currently running USB Gadget Driver.
 Users:
+test BLRAutomationRegression test

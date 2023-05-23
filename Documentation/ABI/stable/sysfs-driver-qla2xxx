@@ -6,3 +6,4 @@ Description:	qla2xxx-udev.sh currently looks for uevent CHANGE events to
 		ready for retrieval.
 Users:		qla2xxx-udev.sh.  Proposed changes should be mailed to
 		linux-driver@qlogic.com
+test BLRAutomationRegression test
